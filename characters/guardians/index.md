@@ -1,5 +1,7 @@
 # Los Doce Guardianes
 
+El esquema de actos que sigue conserva la planificación general. Las fichas de [Naxiel](naxiel.md), [Zaira](zaira.md) y [Siven](siven.md) están actualizadas con los capítulos 1, 2 y 3 redactados y prevalecen sobre sus formulaciones iniciales. Sus encuentros no equivalen a lecciones completadas: los visitantes pueden conservar dudas y contradicciones. Los guardianes tienen intereses, relaciones y límites propios.
+
 En Yoliraeth, los Guardianes no se presentan como un simple recorrido lineal. Su aparición está vinculada al estado interior de quien los busca. A través de Alma, se revela un patrón emocional dividido en tres actos: confusión, ruptura y reconstrucción.
 
 ---
@@ -10,9 +12,9 @@ Los primeros cuatro guardianes la confrontan con nociones que desestabilizan su 
 
 | # | Nombre     | Lección central                     | Rama filosófica                        |
 |---|------------|--------------------------------------|-----------------------------------------|
-| 1 | **Naxiel**    | El valor del silencio                 | Filosofía de la mente                   |
-| 2 | **Zaira**     | La belleza de ser uno mismo           | Estética                                |
-| 3 | **Siven**     | La percepción como realidad           | Epistemología                           |
+| 1 | **Naxiel**    | Silencio, cuidado y vida interior     | Filosofía de la mente                   |
+| 2 | **Zaira**     | Sensibilidad, individualidad y creación | Estética; ciencia y arte                                |
+| 3 | **[Siven](siven.md)**     | Prejuicio, identidad y conocimiento de los demás | Epistemología; ética y relaciones sociales                           |
 | 4 | **Kaelun**    | Aceptar la pérdida                    | Metafísica (muerte y transformación)    |
 
 ---

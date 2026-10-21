@@ -50,3 +50,7 @@ Aunque Alma no lo sabe, **Yoliraeth no es igual para todos**. Su forma, sus cami
 
 Esta cualidad hace de Yoliraeth un escenario fértil para futuras historias, otras almas, otros viajes. En cada historia que surja en su suelo, la tierra se moldeará de nuevo, revelando otras verdades que, como en sueños, solo se comprenden al despertar.
 
+
+## Ausencia de insectos
+
+Decisión autoral del 21 de septiembre de 2026: en esta tierra no hay insectos. Esta condición permite que los habitantes del pueblo duerman en sacos sobre el piso de sus casas y elijan dónde extenderlos según la temperatura, cerca de la entrada cuando hace calor y de la mesa con fogón cuando hace frío.

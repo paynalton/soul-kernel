@@ -60,4 +60,3 @@ La escena está dominada por el caos contenido de un operativo de rescate masivo
 
 - Este lugar se reflejará simbólicamente más adelante en Yoliraeth (posiblemente como un espejo de agua o una zona de paso).
 - El brillo azul que Alma ve aquí se repetirá en otros lugares del viaje como hilo conductor.
-

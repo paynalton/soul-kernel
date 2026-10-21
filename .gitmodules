@@ -1,0 +1,3 @@
+[submodule "ai_cache"]
+	path = ai_cache
+	url = git@github.com:paynalton/soul-kernel-loro.git

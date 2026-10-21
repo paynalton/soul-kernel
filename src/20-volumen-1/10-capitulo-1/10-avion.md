@@ -2,28 +2,42 @@
 
 El sol la despertó.
 
-Una franja de luz cálida entraba por la ventanilla y se quebraba contra su rostro. Alma abrió los ojos lentamente, sin sobresalto, y lo primero que vio fue el contorno difuso de una nube deshaciéndose en el cielo. ¿Qué hora era? Difícil saberlo desde el aire. El sol parecía estar en todas partes y en ninguna. Parpadeó un par de veces antes de girar la cabeza y estirar el cuello con suavidad. Le dolía un poco la espalda baja, pero nada fuera de lo común.
+Una franja de luz cálida le cruzaba el rostro. Alma entreabrió los ojos y distinguió, al otro lado de la ventanilla, una nube cuyo borde se deshacía en el cielo. ¿Cuánto habría dormido? Movió la cabeza despacio para estirar el cuello y se acomodó contra el respaldo. La espalda baja le dolía un poco.
 
-A su lado, un hombre dormía con la cabeza ladeada hacia el pasillo. Más adelante, una azafata revisaba discretamente los compartimentos superiores. El zumbido del motor era constante, monótono. Había algo en esa rutina aérea que le transmitía una sensación incómoda de encierro, como si todo estuviera cuidadosamente diseñado para que nadie se detuviera demasiado a pensar.
+A su lado, un hombre dormía con la cabeza ladeada hacia el pasillo. Más adelante, una azafata revisaba los compartimentos superiores, deteniéndose de vez en cuando para comprobar un cierre. El zumbido del motor llenaba la cabina. Alma miró por encima de los asientos, hacia el extremo del pasillo, y después dejó caer la vista sobre la bandeja cerrada. Le pesaba la idea de seguir allí sentada, con las piernas recogidas y aquel ruido constante que apenas dejaba distinguir las conversaciones.
 
-Su bandeja estaba cerrada, sobre sus piernas descansaba una libreta sin abrir, y entre los dedos aún sostenía un bolígrafo. Ni siquiera recordaba en qué momento se había quedado dormida.
+La libreta descansaba sobre sus muslos, todavía sin abrir. Sostenía el bolígrafo entre los dedos.
 
-Volvió la vista a la ventanilla. Al hacerlo, su reflejo apareció súbitamente sobre el cristal. No era nítido, pero era suficiente para distinguir la curva de su mandíbula, el cabello recogido con una pinza azul, y lo que más la incomodó: sus propios ojos. Había una opacidad en ellos que no recordaba haber visto antes. Una fatiga sin nombre. Una Alma que sonreía demasiado para no preocupar a nadie.
+Al mirar hacia la ventanilla encontró su reflejo superpuesto a las nubes. Reconoció la curva de su mandíbula, el cabello sujeto con la pinza azul y sus ojos, entrecerrados aún por la luz. Se acercó un poco al cristal. Parecía cansada incluso después de dormir; le incomodó pensar que su madre pudiera haberla visto así.
 
-Fue entonces que, sin quererlo, recordó a su madre.
+La recordó sirviéndole arroz en un plato azul con flores pintadas.
 
-—¿Cómo te va, hija? ¿Estás comiendo bien? ¿Estás contenta? —le había preguntado mientras le servía arroz en un plato azul con flores pintadas.
+—¿Cómo te va, hija? ¿Estás comiendo bien? ¿Estás contenta?
 
-Alma había sonreído. —Sí, mamá. Todo va bien. Mucho trabajo, pero bien.
+—Sí, mamá. Todo va bien. Mucho trabajo, pero bien —había respondido con una sonrisa.
 
-También recordó a su padre, sentándose a su lado con esa manera silenciosa de demostrar afecto. Le preguntó por su apartamento, por el clima, por si ya se sentía más segura. Alma respondió todo con frases suaves, amables, y todas eran verdades incompletas. No les habló del miedo, ni del dinero, ni de los días enteros en que se sentía como una impostora frente a la pantalla.
+Su padre se había sentado a su lado para preguntarle por el apartamento, por el clima, por si ya se sentía más segura. Alma contestó con esas verdades incompletas que le permitían seguir conversando sin preocuparlos. Se guardó las cuentas que hacía para llegar al final del mes, el miedo y las horas frente a la pantalla durante las que se sentía incapaz de hacer bien su trabajo. Hablarles de todo aquello le habría costado más que admitir un mal día. Ellos seguían viendo a la hija de buenas calificaciones, alegre, capaz de encontrar una solución.
 
-Recordó también aquella noche con sus amigos de la universidad. Se habían reunido por videollamada después de meses. Todos habían cambiado. Uno trabajaba como freelance sin contrato fijo, otra se sentía estancada en una agencia que parecía no valorarla, y otro había dejado el diseño por completo para dedicarse a ventas. Rieron, compartieron anécdotas. Pero también hablaron de frustraciones, de sueños rotos, de todo lo que nadie les había advertido.
+Con sus amigos de la universidad había sido distinto. Durante una videollamada, después de meses sin reunirse, uno contó que seguía trabajando por su cuenta sin contrato fijo; otra habló de la agencia en la que se sentía estancada y alguien más confesó que había dejado el diseño para dedicarse a las ventas. Rieron al recordar algunas anécdotas, pero poco a poco acabaron hablando del cansancio y de lo difícil que les resultaba reconocer su vida en lo que habían imaginado al graduarse. Alma escuchó mucho y dijo poco. Al despedirse había sentido alivio por saber que ellos también tenían dificultades, aunque la incertidumbre sobre su propio trabajo seguía allí.
 
-Alma había dicho poco. Escuchó más de lo que habló. Colgó sintiéndose menos sola… y a la vez más perdida.
+Bajó la mirada hacia la libreta. La había llevado para dibujar durante el vuelo y ni siquiera la había abierto. Le costaba recordar cuándo había empezado a dejar para después las cosas que quería hacer. Siempre quedaba algo pendiente, alguna preocupación que la acompañaba incluso cuando tenía tiempo libre. ¿Cómo explicarles que estaba haciendo tanto y que, aun así, cada vez se sentía más lejos de la vida que deseaba?
 
-Suspiró.
+La señal del cinturón se encendió con un leve *ding*. Alma alzó la cabeza al escuchar un carraspeo distorsionado en el altavoz.
 
-No lo había dicho. Ni en esa llamada ni frente a sus padres. No era una queja concreta, sino una decepción silenciosa, acumulada en los días sin pausa, en la rutina que desdibujaba todo lo que había soñado. No podía decirlo. No a ellos, ni a sus amigos. Ella era la hija brillante, la de las buenas calificaciones, la que siempre sonreía y encontraba el lado positivo. ¿Cómo iba a confesar que se sentía agotada, desilusionada, ajena a la vida que creía haber construido? A veces pensaba que la vida real se le había escurrido entre los dedos sin que pudiera señalar el momento exacto. No era crear, ni crecer, ni lograr; era sostenerse. Y esa palabra —sostenerse— empezaba a parecerle más triste que cualquier otra...
+—Atención, esta es una instrucción de seguridad. Permanezcan en sus asientos con el cinturón abrochado y prepárense para…
 
-Sus pensamientos fueron interrumpidos por la señal del cinturón, que se encendió con un leve *ding*, seguida de un carraspeo distorsionado en el altavoz.
+Un estruendo seco sacudió el fuselaje y ahogó el resto del anuncio. Alma buscó los extremos del cinturón mientras el asiento temblaba debajo de ella. A su alrededor se oyeron gritos; alguien se aferró al respaldo de enfrente. Consiguió encajar la hebilla y miró al hombre de su lado, que acababa de despertar.
+
+—¡Póngaselo! —le dijo, señalando el cinturón que tenía junto a la cadera.
+
+Él asintió lentamente y bajó una mano hacia el asiento. Otra sacudida lo levantó antes de que pudiera sujetarse. Alma lo vio salir despedido hacia el pasillo y lo perdió de vista entre los respaldos. Los gritos aumentaron, mezclados con golpes que llegaban de distintas partes de la cabina.
+
+Apretó la espalda contra el asiento. El avión se ladeó y sintió que el estómago se le subía hasta el pecho; durante un instante su cuerpo quedó suspendido, retenido por la correa que le cruzaba las caderas.
+
+Una persona pasó por encima de los asientos. Alma creyó reconocer el uniforme de la azafata antes de que el cuerpo golpeara el techo y desapareciera hacia el fondo. Una botella giraba en el aire entre una maleta de mano y una tableta. De pronto vio una libreta gruesa que venía hacia su rostro y encogió la cabeza, pero una nueva inclinación del avión la desvió antes de alcanzarla.
+
+Buscó la ventanilla. Más allá del cristal estaba el suelo, cada vez más próximo. Sobre él se extendía la sombra del avión, negra y alargada bajo la luz del sol. Alma se quedó mirándola con los dientes apretados. Seguía creciendo, ensanchándose, y aunque todavía oía los gritos, ya no podía apartar la vista.
+
+La sombra lo ocupó todo.
+
+Después, oscuridad.

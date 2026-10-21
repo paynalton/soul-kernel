@@ -6,14 +6,17 @@ Además, el recorrido dentro de Yoliraeth se estructura en **tres actos narrativ
 
 ---
 
-## 🎬 Prólogo
+## 🎬 Prólogo y continuidad del accidente
 
-- **Plano real**  
-  Alma es rescatada tras un accidente aéreo. Despierta desorientada en una playa, rodeada de paramédicos y otros sobrevivientes.
-  - Emoción: shock, vacío, confusión.
-  - Primer indicio de Vekún: aparece como una criatura brillante y silenciosa, sin interactuar directamente.
-- Es trasladada a una carpa médica o espacio provisional, donde permanecerá durante todo su proceso de recuperación.
-  - Aquí comenzará a narrar lo que "soñó" o "vivió", y es donde inicia el relato de Yoliraeth.
+La secuencia ya redactada se detalla en [Ruta del sitio del accidente](sitio_del_accidente.md), que prevalece sobre las antiguas propuestas de interrupciones del plano real.
+
+Alma es rescatada consciente entre los asientos del avión y llevada en camilla a una unidad médica de campaña. Allí la doctora evalúa su dificultad respiratoria y Elías Navarro examina sus pupilas y orientación. Los destellos azules aparecen desde el rescate; en la carpa, Alma pronuncia «Vekún».
+
+El interludio de la sala del oído retoma ese instante y muestra la recurrencia del azul. En el olfato y durante la preparación del mole, sensaciones del accidente irrumpen dentro de Yoliraeth. Al final de la sala del gusto, una luz intensa y un estruendo agitan la carpa; Alma se mueve, sufre un dolor agudo en el costado y Elías llama a la doctora por su dificultad respiratoria.
+
+La siguiente escena externa, intercalada en la partida del capítulo 3, ocurre dentro de una ambulancia en marcha. Dos paramédicos la atienden con ventilación asistida después de un paro respiratorio con pulso conservado. La mujer también percibe el azul en sus ojos. Alma deja de percibir el entorno y solo permanece la grieta azul. El intervalo entre la carpa y el traslado no está narrado.
+
+Alma no permanece en la carpa durante toda su recuperación. Tampoco se ha escrito que cuente allí su viaje completo. El estado actual del plano externo termina antes de llegar al hospital.
 
 ---
 
@@ -23,15 +26,17 @@ Alma es lanzada a un mundo que no comprende. Los primeros Guardianes la enfrenta
 
 | Encuentro | Guardián   | Lección central             | Interrupciones del mundo real |
 |-----------|------------|-----------------------------|-------------------------------|
-| 1         | Naxiel     | El valor del silencio       | Un médico le habla, pero no responde |
-| 2         | Zaira      | Ser uno mismo               | Recuerda brevemente su infancia |
-| 3         | Siven      | La percepción como realidad | Escucha a otro sobreviviente hablar del accidente |
+| 1         | Naxiel     | El valor del silencio       | No hay un interludio externo nuevo durante el claustro |
+| 2         | Zaira      | Ser uno mismo               | Recurrencia del azul en la carpa; irrupciones sensoriales; estruendo y dificultad respiratoria |
+| 3         | Siven      | La percepción como realidad | Traslado en ambulancia, ventilación asistida y percepción del azul por la paramédica |
 | 4         | Kaelun     | Aceptar la pérdida          | Llanto involuntario en el mundo real |
 
 - Vekún desaparece varias veces, causando incomodidad y desconfianza.
 - Alma empieza a tener dudas sobre su cordura.
 
 ---
+
+Las interrupciones de Kaelun y de los actos siguientes, incluido el epílogo, se conservan como planificación. No son acontecimientos médicos confirmados ni fijan dónde acabará la recuperación de Alma.
 
 ## ⚔️ ACTO II – *Ruptura / Confrontación*
 
