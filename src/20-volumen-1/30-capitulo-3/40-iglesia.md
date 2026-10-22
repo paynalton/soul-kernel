@@ -1,10 +1,8 @@
-# La iglesia
-
 Alma avanzó unos pasos y se sentó en la primera banca. Había entrado buscando sombra, pero el recinto estaba lleno de una claridad blanca que parecía reposar sobre las cosas. Bajo aquella luz, la tela parda del pantalón recuperó sus vetas más finas y el polvo adherido a sus tenis se volvió visible hasta en los pliegues. Acomodó la prenda sobre el saco y miró alrededor. Nadie se había vuelto hacia ella. Una mujer caminaba entre las bancas con un ramo apoyado en el antebrazo; más lejos, alguien permanecía sentado, con las manos juntas sobre las rodillas.
 
 Vekún saltó sobre sus piernas y alzó el hocico hacia ella, con las orejas inclinadas hacia atrás y una preocupación evidente en los ojos. Se quedó un momento mirándola antes de pasar al asiento y acomodarse a su lado, tan cerca que el pelo de su costado le rozaba la mano.
 
-El templo se extendía en un círculo amplio, dividido por hileras de bancas que apuntaban hacia el centro. Entre ellas quedaban pasos estrechos, y otros mayores permitían recorrer el borde sin atravesar los lugares donde descansaba la gente. Alma siguió uno de esos corredores con la vista. Las paredes se curvaban detrás de figuras de madera, hombres y mujeres de rostros serenos, algunos con la cabeza inclinada y otros con los brazos recogidos sobre el pecho. No todos tenían la misma altura. Entre dos adultos había una niña que sostenía algo diminuto entre las manos; desde donde estaba, Alma no alcanzaba a distinguirlo.
+El templo se extendía en un círculo amplio, dividido por hileras de bancas que apuntaban hacia el centro. Entre ellas quedaban pasos estrechos, y otros mayores permitían recorrer el borde sin atravesar los lugares donde descansaba la gente. Alma recorrió uno de esos corredores con la mirada. Las paredes se curvaban detrás de figuras de madera, hombres y mujeres de rostros serenos, algunos con la cabeza inclinada y otros con los brazos recogidos sobre el pecho. No todos tenían la misma altura. Entre dos adultos había una niña que sostenía algo diminuto entre las manos; desde donde estaba, Alma no alcanzaba a distinguirlo.
 
 Alzó la cabeza buscando de dónde venía la luz.
 
@@ -142,9 +140,9 @@ En la plaza se había levantado una polvareda que volvía turbia la última luz 
 
 Más allá de la plaza, una casa tenía parte del revestimiento desprendido y dejaba ver una trama oscura bajo el color de la pared. Otra mostraba el alero vencido sobre un costado. La gente salía a la calle mirando hacia los techos. Desde una de las entradas llegaban llamadas que Alma no alcanzaba a entender.
 
-La mujer de las canastas estaba sentada sobre una caja, con una pierna extendida. Tenía los dedos apretados contra el borde y seguía con los ojos los movimientos de alguien que, arrodillado frente a ella, le levantaba con cuidado la ropa por encima del tobillo. Una mancha oscura se extendía sobre la tela. La mujer hizo una mueca y echó el cuerpo hacia atrás.
+La mujer de las canastas estaba sentada sobre una caja, con una pierna extendida. Tenía los dedos apretados contra el borde y observaba los movimientos de alguien que, arrodillado frente a ella, le levantaba con cuidado la ropa por encima del tobillo. Una mancha oscura se extendía sobre la tela. La mujer hizo una mueca y echó el cuerpo hacia atrás.
 
-Alma se quedó junto a la pared del templo. Vekún olfateó el aire y avanzó un paso hacia los restos del puesto. Ella lo siguió con la vista, pero mantuvo la espalda cerca del muro.
+Alma se quedó junto a la pared del templo. Vekún olfateó el aire y avanzó un paso hacia los restos del puesto. Ella lo observó alejarse, pero mantuvo la espalda cerca del muro.
 
 Una niña llegó corriendo por una calle, con las mejillas manchadas de polvo.
 
@@ -154,11 +152,11 @@ Un hombre dejó el recipiente que acababa de recoger y fue hacia ella. Dos perso
 
 Siven salió del templo acompañado por el hombre de las antorchas, que le sostenía una tela contra la cabeza. Lo hizo detenerse junto a la puerta y pidió otra tira limpia. Belis dejó lo que llevaba y fue a buscarla; cuando regresó, el hombre sujetó la tela con ella, rodeando la frente de Siven. Este permaneció quieto, con una mano apoyada en la pared, mientras terminaban de atenderlo.
 
-Después fue junto a Tavia. Se agachó con dificultad y le apoyó una mano sobre el hombro. La mujer tenía los ojos llenos de lágrimas y se aferró a su manga cuando quien le revisaba la pierna intentó acomodársela.
+Después fue junto a la mujer de las canastas. Se agachó con dificultad y le apoyó una mano sobre el hombro. La mujer tenía los ojos llenos de lágrimas y se aferró a su manga cuando quien le revisaba la pierna intentó acomodársela.
 
 —Estoy aquí —le dijo Siven—. Apóyate en mí.
 
-Acercó una caja y la sostuvo mientras colocaban encima la pierna de Tavia. Belis trajo una manta para cubrirle los hombros y Vekún fue hasta un grupo de vecinos que se detenían junto a la fuente. Volvió con una mujer que llevaba telas limpias. Alma observó cómo se reunían alrededor de Tavia, dejando espacio para quien la atendía. Las mercancías permanecían esparcidas bajo la estatua.
+Acercó una caja y la sostuvo mientras colocaban encima la pierna de la herida. Belis trajo una manta para cubrirle los hombros y Vekún fue hasta un grupo de vecinos que se detenían junto a la fuente. Volvió con una mujer que llevaba telas limpias. Alma observó cómo se reunían alrededor de la herida, dejando espacio para quien la atendía. Las mercancías permanecían esparcidas bajo la estatua.
 
 Vekún regresó junto a Alma y miró el saco que ella seguía apretando contra el cuerpo.
 
@@ -166,7 +164,7 @@ Vekún regresó junto a Alma y miró el saco que ella seguía apretando contra e
 
 Alma asintió y se separó del muro. Apenas apoyó el pie, un dolor agudo le atravesó el tobillo y la pierna cedió. Quiso recuperar el equilibrio, pero el peso del saco la arrastró hacia un lado; alcanzó a extender una mano antes de caer sobre los guijarros. El golpe le raspó la palma y la dejó sentada en el suelo, con una rodilla doblada bajo la falda. Vekún se acercó de inmediato. Ella intentó incorporarse, avergonzada, pero al mover el pie sintió otra punzada y se quedó inmóvil, apretando los dientes.
 
-Siven se volvió al oír el golpe. En cuanto vio a Alma en el suelo, se levantó de junto a Tavia y fue hacia ella; la mujer de las telas se acercó para sostener a la herida.
+Siven se volvió al oír el golpe. En cuanto vio a Alma en el suelo, se levantó de junto a la herida y fue hacia ella; la mujer de las telas se acercó para sostener a la herida.
 
 Alma alzó la cabeza y vio acercarse a Siven. La tela que él llevaba alrededor de la frente estaba empapada en un lado, y un hilo de sangre le recorría la sien hasta el borde de la mandíbula. Siven avanzaba encorvado, respirando por la boca; Alma se fijó en los dientes, en los ojos húmedos bajo las cejas, y volvió a sentir el aliento del hombre que le había cerrado el paso junto a la tortillería. Se arrastró hacia el muro, pero, al rozar el suelo con el talón, otra punzada le atravesó el tobillo y la rabia le subió hasta la garganta: no podía ni apartarse de él. Vekún se hizo a un lado para que Siven pudiera ayudarla.
 
@@ -186,7 +184,7 @@ Siven permaneció donde estaba. Alma esperaba una respuesta, algo contra lo que 
 
 La plaza se había quedado quieta.
 
-La mujer que había traído las telas se quedó con una tira limpia entre las manos. Quien atendía la pierna de Tavia alzó la cabeza; miraba a Alma desde allí, con la boca apretada. Incluso quienes acababan de llegar de las calles se habían detenido. Alma buscó los ojos de Vekún y los encontró fijos en ella. Tavia se incorporó sobre la caja, olvidando por un momento la pierna extendida. En su rostro había un desprecio que hizo a Alma encogerse contra el muro.
+La mujer que había traído las telas se quedó con una tira limpia entre las manos. Quien atendía la pierna de la herida alzó la cabeza; miraba a Alma desde allí, con la boca apretada. Incluso quienes acababan de llegar de las calles se habían detenido. Alma buscó los ojos de Vekún y los encontró fijos en ella. La mujer de las canastas se incorporó sobre la caja, olvidando por un momento la pierna extendida. En su rostro había un desprecio que hizo a Alma encogerse contra el muro.
 
 Volvió la cabeza hacia los demás y encontró la misma dureza. Nadie parecía dispuesto a decir algo por ella. El silencio le pesó más que los gritos de antes; sintió que la cara se le encendía y quiso cubrirla, pero tenía las manos aferradas al saco. Ya no podía mirar la sangre en la frente de Siven ni el brazo inmóvil junto a su cuerpo.
 

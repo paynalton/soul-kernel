@@ -1,42 +1,31 @@
-# El Traslado
+—¡Bombero! —grita alguien a lo lejos.
 
-—¡Bombero!—grita alguien a lo lejos.
+—Ya te llevan, pequeña —le asegura él antes de soltar la camilla.
 
-—Estarás bien pequeña— dice él, mientras suelta la camilla con rapidez y corre hacia el humo—. Cuídenla.
+Corre hacia el humo y grita por encima del hombro:
+
+—¡Cuídenla!
 
 El aire está saturado. Sirenas. Voces. Fragmentos de órdenes lanzadas al viento.  
 Los pies de la joven apenas tiemblan.
 
-—¿A cuál carpa dijiste? —pregunta una de ellas, mirando alrededor.
+—¿A cuál carpa dijiste? —pregunta una de las paramédicas, alzando la voz sobre las sirenas.
 
 —La 2… creo. O la 3. No sé si ya se armó la 3… —responde la otra, girando sobre sus propios pasos.
 
-—¡Triage!, ¡Dónde está Triage!-
+—¡Triaje! ¿Dónde está la zona de triaje? —grita la primera hacia quienes cruzan entre los vehículos.
 
 A pocos metros, un joven policía con rostro tenso y manos nerviosas levanta el brazo. No dice nada, solo señala con prisa hacia un claro entre camiones y tiendas.  
 
-Pasan a lado del policía asintiendo en agradecimiento.  
+Pasan al lado del policía y le agradecen con un gesto.
 
 En ese instante, su mirada se cruza con la de Alma.
 
-No hay ternura.  
-No hay consuelo.  
-Hay miedo, el policía tiene miedo.
+El policía tiene miedo.
 
-Ella lo siente como si ese miedo fuera una sustancia que pasara de la mirada a su pecho.  
-No es el miedo por ella.  
-Es el miedo por él mismo.  
-**El miedo de no saber si está haciendo lo correcto,  
-de no estar preparado,  
-de ser un espectador incapaz de ayudar.**
+**Ella lo siente en su propio pecho**, mezclado con la urgencia de respirar. El joven mira hacia las tiendas, vuelve a señalar y abre la boca sin que llegue a oírse una palabra. Quizá teme haberse equivocado. Quizá tampoco sabe qué hacer ante tantos heridos.
 
-Y aún así, no aparta la vista.  
-No huye.  
-Solo la mira.  
-**Y ella entiende.**
-
-Entiende sin palabras que él no puede salvarla.  
-Pero **está ahí**, quieto, sosteniendo su torpeza con dignidad, ayudando de la mejor manera posible
+Alma quisiera decirle que lo ha visto, que agradece aquel brazo levantado indicando el camino. La camilla ya lo está dejando atrás.
 
 —
 
@@ -60,25 +49,19 @@ Pero que parece… buscarla.**
 
 —
 
-Las luces de la carpa se acercan.
+La última claridad del cielo se ha apagado. Los faros recortan piernas, camillas, sombras que cruzan de prisa. Alma distingue cada vez menos el rumor del mar; tiene que esforzarse para separar las palabras de quienes la llevan. Las luces de la carpa se acercan.
 
-—¿Triage?  
-—Sí. No… espera, esa es... Esta es. ¡Aquí!
+—¿Triaje?
+
+—Sí. No… espera. ¡Aquí!
 
 Una ráfaga de aire caliente la envuelve.  
 El sonido cambia: de metal, gritos y sirenas… a ecos apagados y voces filtradas.  
 Manos con guantes la sujetan.  
 Instrumentos metálicos brillan bajo una lámpara portátil.
 
-Y entonces, **el azul regresa.  
-Un destello que no pertenece a ninguna herramienta.  
-Un sonido que no proviene de ninguna radio.  
-Una presencia que no está.**
-
-**Pero ella la siente.**  
-Como si la envolviera.  
-Como si le susurrara sin palabras:
+Entonces ve **el azul**, junto al brillo de los instrumentos. Intenta mirarlo y escucha de nuevo aquel fragmento de canto. Le resulta tan próximo que espera sentir un aliento junto al oído.
 
 Alma exhala.
 
-**Y el mundo, se apaga.**
+La lámpara se borra, las manos se alejan. **El mundo se apaga.**

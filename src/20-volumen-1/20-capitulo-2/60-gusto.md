@@ -1,5 +1,3 @@
-# La sala del gusto
-
 El pasillo se prolongaba bajo una sucesión de arcos. Alma caminaba junto a Zaira, todavía con una sonrisa que volvía cada vez que Vekún le rozaba la pierna; él avanzaba con el hocico levantado, adelantándose unos pasos para detenerse después a esperarlas. Más allá de los arcos, la luz cambiaba lentamente de color. El blanco se volvía dorado sobre la piedra y, al fondo, unas sombras menudas temblaban en el suelo.
 
 Alma oyó hojas antes de ver el jardín. El corredor se abrió de pronto y una corriente de aire le refrescó los brazos; frente a ellos crecían pinos y encinos, helechos recogidos a la sombra y matas que se desbordaban entre las piedras de un camino. Alzó la mirada a lo largo de un tronco hasta donde se perdía entre las copas, mientras Vekún ya olfateaba el borde del empedrado.
@@ -172,7 +170,7 @@ Alma añadió las semillas y un poco de caldo. El metlapil las quebró con un cr
 
 Alma se llevó una mano al costado y tanteó con los dedos el lugar de la punzada, sin comprender por qué le dolía allí. Respiró con cuidado mientras miraba alrededor, buscando de dónde podía venir aquel aroma extraño. La leña ardía despacio bajo las ollas; Zaira había dejado el café molido y llenaba una vasija de barro con agua. Recorrió con la mirada la estufa, la mesa y los recipientes cercanos, pero nada le permitió reconocer el origen del olor. Se quedó un momento con la palma apoyada en el costado; después la retiró y cambió el apoyo de las rodillas. Le faltaba mucho por moler y prefirió dejar pasar aquello. Acercó las almendras y los cacahuates, los reunió con la pasta y empujó de nuevo, procurando hacer menos fuerza con el lado que le dolía.
 
-—Cuando tus amigos insisten en que expliques por qué te desagrada el lugar que eligieron, pueden acabar esperando una respuesta que les permita hacerte cambiar de opinión —continuó Zaira mientras dejaba la vasija junto al fuego—. Quizá para ti sea difícil precisar qué te incomoda o quizá ya lo hayas dicho y sigan buscando otra razón. Puedes contarles lo que sabes de esa sensación y reconocer lo que todavía no sabes explicar; ellos pueden tomarlo en cuenta aun cuando disfruten mucho de ese sitio. También entre amigos se forman relaciones de poder: alguien puede acostumbrarse a elegir y dar por hecho, sin advertirlo, que sus gustos representan al grupo; si los demás ceden siempre para evitar una discusión, esa persona termina decidiendo por todos. El cariño puede convivir con esa pequeña forma de dominación, tan cotidiana que cuesta reconocerla. Después habrá que decidir adónde ir: proponer otro lugar, turnarse para elegir o aceptar que alguna vez uno prefiera quedarse en casa. Incluso puedes acompañarlos porque deseas estar con ellos y seguir sintiendo el mismo desagrado por el lugar: esa elección te permite participar con lo que de verdad sientes. Entre amigos debería haber espacio para decir «esto no me gusta» sin que la salida entera se convierta en un esfuerzo por corregir esa respuesta.
+—Cuando tus amigos insisten en que expliques por qué te desagrada el lugar que eligieron, pueden acabar esperando una respuesta que les permita hacerte cambiar de opinión —continuó Zaira mientras dejaba la vasija junto al fuego—. Quizá para ti sea difícil precisar qué te incomoda o quizá ya lo hayas dicho y sigan buscando otra razón. Puedes contarles lo que sabes de esa sensación y reconocer lo que todavía no sabes explicar; ellos pueden tomarlo en cuenta aun cuando disfruten mucho de ese sitio. También entre amigos se forman relaciones de poder: alguien puede acostumbrarse a elegir y dar por hecho, sin advertirlo, que sus gustos representan al grupo; si los demás ceden siempre para evitar una discusión, esa persona termina decidiendo por todos. El cariño puede convivir con esa pequeña forma de dominación, tan cotidiana que cuesta reconocerla. Después habrá que decidir adónde ir: proponer otro lugar, turnarse para elegir o aceptar que alguna vez uno prefiera quedarse en casa. Entre amigos debería haber espacio para decir «esto no me gusta» sin que la salida entera se convierta en un esfuerzo por corregir esa respuesta.
 
 El agua empezó a calentarse. Zaira partió la canela y la puso en la olla; luego acercó el arroz y los jitomates que había reservado.
 
@@ -248,8 +246,10 @@ Alma intentó incorporarse al mismo tiempo que giraba hacia el ruido. Una punzad
 
 La lona volvió a su sitio. Cerca de la entrada alguien pidió calma, y la mujer de las mantas se agachó a recoger el paquete que había soltado. Elías ya se había vuelto hacia Alma.
 
-—Alma, mírame.
+—Alma, mírame —le pidió Elías con voz firme, acercándose para que pudiera oírlo.
 
 Ella encontró su rostro entre las lágrimas que empezaban a nublarle los ojos. Quiso decirle dónde le dolía, pedirle que la ayudara a acomodarse; al intentarlo, solo consiguió dejar escapar un quejido. Elías se inclinó sobre ella y la sostuvo mientras volvía a apoyarse en la camilla. Alma le aferró la manga, pendiente de la siguiente bocanada, pero el aire seguía entrando a medias.
 
-—¡Doctora, aquí! —gritó Elías, buscando entre las camillas—. ¡Dificultad respiratoria!
+—¡Doctora, aquí! —gritó Elías, buscando entre las camillas—. ¡Ha empeorado la dificultad respiratoria!
+
+---

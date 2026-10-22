@@ -1,5 +1,3 @@
-# La partida
-
 Vekún siguió la calle hasta que las luces de la plaza quedaron ocultas entre las casas. Algunos vecinos todavía iban de una puerta a otra con lámparas en las manos; más lejos, las ventanas iluminadas se espaciaban y el ruido del agua en los canales comenzaba a distinguirse entre las voces. Caminó por el borde del empedrado, deteniéndose en los cruces para mirar a lo largo de cada calle. Tenía polvo en la nariz y las patas le pesaban. De vez en cuando reconocía en el suelo la marca estrecha de un bastón, aunque pronto se perdía entre las pisadas.
 
 La encontró donde terminaban las últimas casas, bajo un techado que cubría una banca junto al camino. Alma estaba acostada de lado, con las rodillas recogidas y el bolso de piel debajo de la cabeza. El abrigo le cubría hasta los muslos. Ya llevaba puesto el pantalón, y sobre los pies había extendido el retazo de tela que antes le servía de falda. Una mano colgaba cerca del asiento; bajo la claridad que llegaba de una ventana, Vekún distinguió varios rasguños en el antebrazo y una ámpula abierta junto al pulgar. Había tierra en los pliegues de la ropa, polvo blanco sobre el hombro y pequeñas costras en los nudillos.
@@ -18,37 +16,37 @@ Un dolor agudo en el costado la hizo abrir los ojos.
 
 Una luz blanca cruzó frente a su pupila. Alma quiso apartar la cara, pero algo le sujetaba la mandíbula y una presión firme le cubría la nariz y la boca. El techo estaba muy cerca. Había una lámpara encendida sobre ella, compartimientos con puertas transparentes, un tubo que temblaba contra una pared. Todo vibraba con un ruido de motor que se le metía en los huesos; bajo la espalda, la camilla repetía las irregularidades del camino.
 
-—Presenta apertura ocular espontánea y movimientos cefálicos involuntarios —comunicó la paramédica a su compañero.
+—Presenta apertura ocular espontánea y movimientos cefálicos involuntarios —informó la paramédica, elevando la voz sobre el ruido del motor.
 
-Una mujer se inclinaba sobre ella. Llevaba el cabello recogido, guantes y una pequeña linterna que acercó al otro ojo. Alma alcanzó a ver la franja reflectante de su uniforme antes de que la luz le borrara el rostro. Alma intentó decir algo, pero apenas pudo mover los labios contra el borde de la mascarilla. El aire entró con una presión ajena a su esfuerzo, le levantó el pecho y salió mientras la mujer seguía sosteniéndole la cara.
+Una mujer se inclinaba sobre ella. Llevaba el cabello recogido, guantes y una pequeña linterna que acercó al otro ojo. Alma alcanzó a ver la franja reflectante de su uniforme antes de que la luz le borrara el rostro. Quiso decirle que la escuchaba, pero no consiguió formar una palabra. El aire entró con una presión ajena a su esfuerzo y le levantó el pecho.
 
-A un lado, un hombre comprimía una bolsa unida a la mascarilla. Con la otra mano mantenía la radio cerca de la boca.
+A un lado, un hombre sostenía la mascarilla y comprimía una bolsa unida a ella. Cuando la mujer apartó la linterna, acomodó ambas manos sobre la mascarilla y la mandíbula de Alma. Él pudo soltar esa sujeción y acercarse la radio a la boca sin dejar de ventilar.
 
-—Paciente del accidente aéreo. Ha presentado un paro respiratorio; conserva pulso. Continuamos ventilación asistida. Ha abierto los ojos, sin respuesta verbal.
+—Paciente del accidente aéreo, con traumatismo torácico. Ha presentado un paro respiratorio; conserva pulso. Continuamos ventilación asistida. Ha abierto los ojos, sin respuesta verbal.
 
 La radio contestó con un crujido y unas palabras que Alma no alcanzó a separar. Reconoció las puertas dobles al fondo, el movimiento del hombre al afirmarse contra el asiento, la oscilación de una correa sobre su cabeza. Una ambulancia. Quiso recordar cómo había llegado allí, pero otro golpe del camino le atravesó el costado y la idea se deshizo antes de completarse. El dolor la hizo querer gritar, encogerse, llevarse las manos a las costillas, pero su cuerpo apenas se movió sobre la camilla. Intentó tomar aire para soltar el grito y sintió que el pecho permanecía inmóvil hasta que una nueva presión de la bolsa le llenó los pulmones. El aire volvió a salir sin que pudiera retenerlo ni convertirlo en voz.
 
-La paramédica retiró la lámpara. Detrás de su hombro, una claridad azul recorrió el borde de un compartimiento y se quebró en una línea fina, eléctrica, que permaneció un instante en el aire. Alma la siguió con los ojos. Era el mismo azul. Lo vio vibrar cerca de la mano de la mujer, intenso y preciso, mientras el rojo de las luces exteriores pasaba por las pequeñas ventanas de las puertas. El destello conservó su forma cuando aquel reflejo desapareció.
+Detrás del hombro de la paramédica, una claridad azul recorrió el borde de un compartimiento y se quebró en una línea fina, eléctrica, que permaneció un instante en el aire. Alma quiso fijar la mirada en ella. Era el mismo azul. Lo vio vibrar cerca de la mano de la mujer, intenso y preciso, mientras el rojo de las luces exteriores pasaba por las pequeñas ventanas de las puertas. El destello conservó su forma cuando aquel reflejo desapareció.
 
-La mujer acercó de nuevo la linterna y se detuvo.
+La mujer se inclinó un poco más. El hombre dejó la radio para sostener la mascarilla mientras ella tomaba de nuevo la linterna. Al iluminarle los ojos, se detuvo.
 
 —Hay algo azul en sus ojos… Está brillando —se le escapó a la paramédica, con la linterna inmóvil entre los dedos.
 
-Su compañero bajó la radio un momento. Alma sintió otra entrada de aire bajo la mascarilla; intentó mantener los ojos abiertos, buscando aquella luz entre los rostros.
+Alma sintió otra entrada de aire bajo la mascarilla; intentó mantener los ojos abiertos, buscando aquella luz entre los rostros.
 
 —¿En las pupilas?
 
 —Dentro. Acaba de aparecer otra vez.
 
-El hombre miró hacia ella y después hacia los aparatos junto a la camilla.
+La mujer guardó la linterna y sujetó de nuevo la mascarilla con ambas manos. Su compañero miró los aparatos junto a la camilla antes de tomar la radio.
 
 —¿Y cómo reporto eso? ¿Un brillo azul en las pupilas?
 
 —Omítelo por ahora. En el hospital lo verán y decidirán qué hacer.
 
-La mujer siguió examinándola. Había dicho algo más, una palabra que Alma creyó reconocer, pero el ruido del motor se extendió sobre su voz. La luz azul se afinó hasta quedar como una pequeña grieta brillante. Alma intentó levantar una mano hacia ella, pero apenas logró mover los dedos.
+La mujer permanecía inclinada sobre ella. Había dicho algo más, una palabra que Alma creyó reconocer, pero el ruido del motor se extendió sobre su voz. La luz azul se afinó hasta quedar como una pequeña grieta brillante. Alma intentó levantar una mano hacia ella, pero apenas logró mover los dedos.
 
-—Presenta movimientos involuntarios en la mano derecha —oyó decir a la paramédica.
+—Presenta movimientos involuntarios en la mano derecha —informó la paramédica con voz clara.
 
 La radio volvió a sonar. El hombre hablaba de respiración, de llegar, de alguien que debía estar esperando. El techo y los rostros se fueron oscureciendo hasta que Alma dejó de distinguirlos. Sintió una última presión de aire mientras las voces se apagaban. En la oscuridad solo quedó la grieta azul.
 
@@ -244,7 +242,7 @@ Dejaron atrás el techado y siguieron caminando entre los árboles. El sol llega
 
 Desde allí podía contemplar todo el pueblo.
 
-Los techos cónicos se repartían entre las copas de los árboles, sobre casas redondas cuyas paredes pintadas recibían de lleno la luz de la mañana. Alrededor de cada una se dibujaban huertos, corrales y jardines. Las flores desbordaban sus límites en manchas rojas, amarillas y violetas, y los espacios que quedaban entre los terrenos y las calles estaban ocupados por frutales, pequeños jardines y bancos. Alma siguió con la mirada los caminos que convergían hacia el centro, algunos de tierra oscura, otros salpicados de guijarros de colores. Allí se abría el anillo blanco de la plaza, brillante bajo el sol, con sus fuentes y sus estatuas de madera entre las flores. Por encima se levantaban las cúpulas del templo, reunidas alrededor del cristal que devolvía un destello intenso cada vez que Alma movía la cabeza. Los cuatro campanarios rodeaban aquella sucesión de curvas. Desde lo alto, las calles permitían reconocer cómo todo el pueblo había crecido en torno a ellas.
+Los techos cónicos se repartían entre las copas de los árboles, sobre casas redondas cuyas paredes pintadas recibían de lleno la luz de la mañana. Alrededor de cada una se dibujaban huertos, corrales y jardines. Las flores desbordaban sus límites en manchas rojas, amarillas y violetas, y los espacios que quedaban entre los terrenos y las calles estaban ocupados por frutales, pequeños jardines y bancos. Alma recorrió con la mirada los caminos que convergían hacia el centro, algunos de tierra oscura, otros salpicados de guijarros de colores. Allí se abría el anillo blanco de la plaza, brillante bajo el sol, con sus fuentes y sus estatuas de madera entre las flores. Por encima se levantaban las cúpulas del templo, reunidas alrededor del cristal que devolvía un destello intenso cada vez que Alma movía la cabeza. Los cuatro campanarios rodeaban aquella sucesión de curvas. Desde lo alto, las calles permitían reconocer cómo todo el pueblo había crecido en torno a ellas.
 
 Dejó el bastón sobre la roca y se llevó las manos a la boca.
 

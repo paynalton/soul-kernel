@@ -123,3 +123,19 @@ Fuentes: `src/20-volumen-1/30-capitulo-3/10-arribo.md` a `60-partida.md`.
 - Acepta con naturalidad los cambios corporales de Vekún y nota que al despertar su complexión es más alargada.
 - En la línea del accidente continúa gravemente herida. El dolor del costado y el olor a plástico quemado irrumpen en las experiencias del palacio. En el capítulo 3 abre los ojos dentro de una ambulancia, recibe ventilación asistida después de un paro respiratorio con pulso conservado y vuelve a perder la conciencia. Percibe una grieta azul que también llama la atención de la paramédica. No se establece una recuperación médica ni una equivalencia temporal entre ambos mundos.
 - Ambos se alejan por un camino ascendente, sin fijar un nuevo destino.
+
+## Percepción tras el accidente — nota interna de continuidad
+
+Justo después del accidente, Alma oye, ve y siente con una intensidad que supera los sentidos naturales. El estado se regula conforme pasan los minutos. Su causa es el viaje entre mundos, pero esa explicación técnica no aparecerá en la obra. Mostrar únicamente sus efectos y su evolución. No confundir la regulación perceptiva con mejoría médica ni convertir la percepción del miedo ajeno en conocimiento directo de los pensamientos de otras personas: siente el miedo del policía e interpreta sus motivos. No se ha establecido una duración exacta del fenómeno.
+
+### Lesiones del accidente — precisión autoral
+
+Sufre varias fracturas costales en el accidente. Después, el movimiento brusco provocado por la explosión agrava su estado hasta un paro respiratorio con pulso conservado y necesidad de ventilación asistida. No se han definido el número exacto de fracturas ni una lesión pulmonar asociada. Su hipersensibilidad se regula de manera independiente. Los diálogos médicos deben reflejar lo comprobable en cada etapa; las correcciones técnicas requieren presentación previa al autor.
+
+### Viaje previo al accidente
+
+Regresa de una visita a su familia en México y vuela hacia Estados Unidos. El accidente sucede en territorio estadounidense. Ciudades, aeropuertos, estado y aerolínea no están definidos.
+
+### Entorno y agravamiento — precisión posterior
+
+El accidente sucede con luz diurna, en invierno, sobre un riachuelo cercano a la costa estadounidense. La rescatan al atardecer y entra en la carpa cuando ya es de noche. Se puede ver y escuchar el mar; no está nevando. La lesión que provoca el deterioro posterior es una perforación interna de la pleura causada por una costilla fracturada al moverse bruscamente tras la explosión. La formulación clínica y la atención se presentarán antes de aplicarse al manuscrito. Alma habla inglés perfectamente. Los diálogos de la línea de la realidad se traducirán al inglés después de la intervención; por ahora se trabajan en español. En el fragmento de la ambulancia está consciente, aunque no puede hablar ni comunicar su conciencia mediante movimientos voluntarios; los paramédicos interpretan sus reacciones como involuntarias. La escena es un instante de conciencia intermitente, no una recuperación sostenida.

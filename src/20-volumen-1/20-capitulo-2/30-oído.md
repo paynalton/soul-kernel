@@ -1,5 +1,3 @@
-# La sala del oído
-
 Al cruzar el umbral, el sonido desapareció de golpe.
 
 Alma apoyó un pie al otro lado y no escuchó el contacto de la suela contra el suelo; dio otro paso y tampoco oyó nada. La tela de su ropa se movió alrededor de sus piernas sin que oyera su roce; el aire entró y salió de su pecho sin producir el menor indicio de respiración. Se llevó dos dedos a la garganta: sintió una vibración leve bajo la piel, pero ningún sonido llegó hasta ella.
@@ -160,8 +158,10 @@ Unos segundos después, el azul apareció sobre la abrazadera metálica del suer
 
 Nadie más pareció notarlo.
 
-Podía ser la ambulancia, alguna lámpara, el metal devolviendo luces que ella no alcanzaba a ver desde la camilla...
+Podían ser las luces de algún vehículo, alguna lámpara, el metal devolviendo luces que ella no alcanzaba a ver desde la camilla...
 
 Pero ya lo había visto antes.
 
 Alma dejó de buscar una respuesta y esperó a que apareciera de nuevo.
+
+---

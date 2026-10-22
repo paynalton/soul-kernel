@@ -1,5 +1,3 @@
-# La sala del olfato
-
 Cuando estuvieron cerca, Zaira abrió la puerta. La oscuridad guardada detrás del umbral se derramó a sus pies, ascendió por los muros y cubrió el pasillo; Alma perdió de vista a Vekún, a la guardiana y, finalmente, sus propias manos. Esperó un cambio en sus ojos, algún contorno que le permitiera orientarse, pero la oscuridad permaneció cerrada y uniforme.
 
 El aire carecía de olor. Alma respiró con cautela, consciente del peso de su cuerpo sobre los pies y de la tibieza que le rozaba el rostro; después de tantos colores, movimientos y sonidos, aquella ausencia parecía ocupar más espacio que la sala entera.

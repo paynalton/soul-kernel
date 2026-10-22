@@ -124,3 +124,15 @@ Fuentes: `src/20-volumen-1/30-capitulo-3/10-arribo.md` a `60-partida.md`.
 - No conoce al benefactor anónimo ni se le atribuye haber vendado el tobillo o secado los tenis. Lleva hasta Alma el obsequio de Siven y después vuelve a viajar junto a ella.
 - Sabe más sobre la historia y el pensamiento de Siven que Alma. No le transmite toda la conversación ni presupone que ella pueda comprender de inmediato cuanto él mismo sigue elaborando.
 - La amistad continúa después de un desacuerdo serio. El capítulo termina con ambos alejándose por el camino ascendente, sin un destino nuevo definido.
+
+## Vekún y el origen de los destellos — continuidad interna
+
+Confirmación autoral del 21 de octubre de 2026: Vekún está atrapado en otro mundo e intenta desesperadamente encontrarse con Alma. Los destellos azules que ella percibe son manifestaciones de sus esfuerzos por llegar hasta ella. Más adelante se revela que el brillo está dentro de los ojos de Alma, como permite observar la escena de la paramédica.
+
+Distinguir tres niveles al intervenir:
+
+- **Hecho interno:** los destellos proceden de los intentos de Vekún. Su origen ya está definido para la planificación.
+- **Experiencia de Alma:** al principio parecen reflejos o luces sobre objetos de su entorno. Esas ubicaciones describen dónde cree verlos; no deben convertirse en una confirmación del narrador de que la luz nace en el suero, la bandeja o los compartimientos.
+- **Revelación observable:** la paramédica advierte el brillo dentro de sus ojos. Ese hallazgo revela su localización, sin que ella conozca a Vekún o pueda explicar sus esfuerzos.
+
+La desesperación de Vekún pertenece a su situación real en la historia. No traducir cada destello en una emoción identificada por Alma ni añadir una explicación del mecanismo al diálogo médico. Tampoco se ha fijado una correspondencia temporal entre cada intento y una escena de Yoliraeth, ni se ha confirmado que haya logrado cruzar. Conservar esas diferencias de conocimiento durante la revisión.

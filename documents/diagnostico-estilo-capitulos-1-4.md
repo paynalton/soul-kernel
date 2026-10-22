@@ -1,5 +1,7 @@
 # Diagnóstico de estilo de los capítulos 1 a 4
 
+> Evaluación vigente tras las intervenciones: [diagnóstico de los tres capítulos actuales](diagnostico-estilo-actual.md), 21 de octubre de 2026. Este documento conserva el diagnóstico histórico y los estados intermedios.
+
 > Las menciones a los capítulos conservan la numeración anterior al 21 de octubre de 2026; el capítulo 4 de referencia es ahora el 3. Véase la [reorganización](reorganizacion-capitulos.md).
 
 Fecha: 19 de octubre de 2026. Referencia: [guía de estilo vigente](guia-de-estilo.md).

@@ -1,5 +1,3 @@
-# Vekún
-
 Vekún mantuvo las orejas orientadas hacia la calle hasta que dejó de oír el bastón contra el suelo. Entre las dos primeras casas quedaba una franja de oscuridad por donde Alma había desaparecido; más allá, el agua corría por los canales y una puerta abierta arrojaba un rectángulo de luz sobre el barro. Dio un paso en aquella dirección, pero a sus espaldas volvió a escucharse el llanto de un niño.
 
 —¿No vas a ir con tu amiga?
@@ -8,11 +6,11 @@ Siven seguía junto al muro. La sangre se había secado en los pelos de su mand�
 
 —Necesita espacio —respondió—. Y aquí la gente necesita ayuda.
 
-Una mujer llegó corriendo desde el otro extremo de la plaza, con las manos cubiertas de tierra. Apenas pudo señalar una calle antes de que la voz se le quebrara. Siven fue hacia ella y varios vecinos los siguieron, mientras Vekún regresaba junto a Tavia, donde dos personas acababan de extender una camilla. Se apartó para dejarlas pasar y acompañó unos pasos a quienes la llevaban. Tavia tenía los ojos cerrados y apretaba contra el pecho los extremos de la manta.
+Una mujer llegó corriendo desde el otro extremo de la plaza, con las manos cubiertas de tierra. Apenas pudo señalar una calle antes de que la voz se le quebrara. Siven fue hacia ella y varios vecinos los siguieron, mientras Vekún regresaba junto a la mujer de las canastas, donde dos personas acababan de extender una camilla. Se apartó para dejarlas pasar y acompañó unos pasos a quienes la llevaban. La herida tenía los ojos cerrados y apretaba contra el pecho los extremos de la manta.
 
 Cerca de la fuente empezaban a reunir a los heridos. Alguien había tendido una cubierta entre los árboles y, debajo, una muchacha colocaba telas sobre los guijarros para recibirlos. Vekún vio llegar canastas llenas de objetos redondos, pequeños cubos y cilindros de distintos grosores, todos de madera, con las superficies tan pulidas que reflejaban las llamas de las antorchas. Una esfera rodó hasta sus patas cuando un hombre dejó una canasta en el suelo. La detuvo antes de que alcanzara el canal y empujó con el hocico aquella cosa tibia y ligera.
 
-—¡Tráela, la necesitamos! —le pidió el hombre antes de salir corriendo.
+—¡Tráela, la necesitamos! —le gritó el hombre antes de salir corriendo.
 
 Vekún la sujetó entre los dientes y fue tras él.
 
@@ -32,6 +30,8 @@ El vecino se acercó con la antorcha y alumbró el sitio que Vekún señalaba. E
 
 La mujer regresó junto a ellos y se arrodilló para intentar alcanzar la mano inmóvil, mientras los demás retiraban los fragmentos sueltos que cubrían aquel hueco. El hombre de la canasta escogió otra pieza, se tendió en el suelo y trató de pasarla por una abertura estrecha. Su brazo no alcanzaba el lugar que buscaba; al estirarse, el hombro le impedía avanzar.
 
+El polvo seguía cayendo entre las tablas y se arremolinaba frente a la antorcha. Vekún entrecerró los ojos. Alguien pedía espacio a sus espaldas; otra voz daba indicaciones desde el interior y apenas alcanzaba a distinguir las palabras entre los crujidos. Cada vez que la llama se movía, las sombras le ocultaban una parte del hueco.
+
 —¡Yo puedo entrar! —ofreció Vekún.
 
 El hombre lo miró y después alzó la vista hacia el techo. Esperaron a que colocaran un segundo apoyo antes de acercarle una pieza achatada, poco mayor que su pata.
@@ -42,7 +42,7 @@ Señaló una pequeña marca formada por tres puntos y giró la pieza para que Ve
 
 Retrocedió despacio. El hombre lo esperó a la entrada y le señaló de nuevo la marca de tres puntos. Vekún afirmó las patas, levantó una de las delanteras y golpeó con fuerza, pero sus cojinetes amortiguaron el impacto y la pieza permaneció cerrada. La miró un instante, inclinó el hocico y le dio un buen mordisco sobre la marca. Un chasquido le vibró entre los dientes. Soltó la madera de inmediato y retiró la cabeza mientras la pieza comenzaba a abrirse bajo los escombros, desplegando una sucesión de caras triangulares. El peso crujió sobre ella. Vekún se apartó, con el polvo cayéndole en el hocico, mientras las tablas se levantaban lo suficiente para que la mujer pudiera meter ambos brazos.
 
-Entre tres sacaron a un hombre de cabello blanco. Estaba inconsciente, con la cara llena de tierra y sangre en una sien. La mujer se inclinó sobre él y, al comprobar que respiraba, llamó a quienes esperaban con la camilla. Vekún retrocedió para dejar sitio a quienes traían la camilla. La mujer que había sostenido la antorcha le pasó una mano por el lomo; sus dedos temblaban.
+Entre tres sacaron a un hombre de cabello blanco. Estaba inconsciente, con la cara llena de tierra y sangre en una sien. La mujer se inclinó sobre él y, al comprobar que respiraba, llamó a quienes esperaban con la camilla. Vekún retrocedió para dejarles sitio. La mujer que había sostenido la antorcha le pasó una mano por el lomo; sus dedos temblaban.
 
 No tardaron en llamarlos desde otra casa.
 
@@ -52,7 +52,7 @@ La tierra húmeda se le pegó al pelo del vientre. Tenía las patas doloridas y 
 
 Cuando Vekún volvió a la fuente de la plaza, a las afueras del templo donde se había separado de Alma, apenas reconoció el lugar.
 
-Habían unido varias cubiertas alrededor del jardín y bajo ellas se extendían hileras de camillas, iluminadas por lámparas suspendidas de los soportes. Entre los heridos pasaban personas con recipientes de agua, vendas y cuencos humeantes. Tavia estaba recostada en una de las primeras filas, con la pierna inmovilizada sobre una almohadilla; conversaba en voz baja con la mujer que le acomodaba la manta. Más allá, junto a los puestos, apilaban alimentos, sacos para dormir y canastas de herramientas. Quienes llegaban de las calles se detenían ante una mesa, hablaban con los que estaban allí y salían de nuevo acompañados o cargando lo que necesitaban. Los caminos entre las camillas permanecían despejados.
+Habían unido varias cubiertas alrededor del jardín y bajo ellas se extendían hileras de camillas, iluminadas por lámparas suspendidas de los soportes. Entre los heridos pasaban personas con recipientes de agua, vendas y cuencos humeantes. La mujer de las canastas estaba recostada en una de las primeras filas, con la pierna inmovilizada sobre una almohadilla; conversaba en voz baja con la mujer que le acomodaba la manta. Más allá, junto a los puestos, apilaban alimentos, sacos para dormir y canastas de herramientas. Quienes llegaban de las calles se detenían ante una mesa, hablaban con los que estaban allí y salían de nuevo acompañados o cargando lo que necesitaban. Los caminos entre las camillas permanecían despejados.
 
 El templo seguía abierto. A través de sus puertas se veía una red de soportes nuevos bajo las curvas del techo, tan próximos en algunos lugares que las antorchas multiplicaban sus sombras sobre las pinturas. Habían apuntalado todo el recinto. Las familias entraban con mantas y pequeños bultos, y algunas ya se acomodaban entre las bancas, apartadas para dejar espacio en el suelo. Un niño dormía en el regazo de su madre cerca del altar, bajo el rostro de madera de alguien que sostenía flores entre las manos.
 
@@ -122,7 +122,7 @@ Siven levantó una mano y señaló las cubiertas extendidas sobre los heridos.
 
 —Muchas de esas mantas y herramientas estaban en los puestos hace unas horas. Ahora ayudan a que alguien sobreviva a esta noche. Quienes las trajeron conocen los rostros que hay debajo de esas cubiertas; mañana tendrán que seguir viviendo juntos, y algo de la vida de cada uno depende de que los demás puedan continuar la suya.
 
-Vekún siguió con la vista a una mujer que retiraba recipientes vacíos de una mesa. Al pasar junto a las provisiones dejó uno, tomó otro lleno y volvió hacia las camillas.
+Vekún observó a una mujer que retiraba recipientes vacíos de una mesa. Al pasar junto a las provisiones dejó uno, tomó otro lleno y volvió hacia las camillas.
 
 —¿Por eso tú tampoco necesitas pagar?
 
@@ -194,7 +194,7 @@ Siven hizo una pausa para cambiar de postura. Al mover el hombro soltó un resop
 
 —¿Cómo podemos entendernos si cada uno ve las cosas desde lo que ha vivido?
 
-—Dedicándonos tiempo para conocernos. Cada historia nos permite comprender algo de quien tenemos delante, y el trato va dando sentido a sus palabras, a sus silencios, a lo que necesita. Aquí ese conocimiento forma parte de la relación desde que comienza. En el mundo de Alma, la costumbre de decidir quién tiene razón y quién está equivocado hace que muchas personas se detengan apenas encuentran dónde colocar al otro. Sus diferencias se convierten en motivos para juzgarse y dejan de conocer todo lo que podrían descubrir una de otra. Cuando escuchamos cómo alguien ha llegado a sentir o pensar algo, sus palabras adquieren matices que al principio se nos escapaban. Podemos preguntarle, contarle lo que nosotros hemos vivido y seguir encontrando maneras de comprendernos a través de ese trato. Lo más sencillo es seguir conociendo a alguien aun cuando creamos saber cómo es. Una etiqueta puede darnos la sensación de haberlo comprendido y hacernos dejar de prestar atención. Las personas son complejas y siguen cambiando; siempre habrá algo que se nos escape, incluso en quienes tenemos más cerca. Quizá nunca lleguemos a comprenderlas por completo, pero podemos seguir intentándolo. En ese interés sostenido por descubrir quiénes son y cómo van cambiando se construyen relaciones verdaderas y sólidas.
+—Dedicándonos tiempo para conocernos. Cada historia nos permite comprender algo de quien tenemos delante, y el trato va dando sentido a sus palabras, a sus silencios, a lo que necesita. Aquí ese conocimiento forma parte de la relación desde que comienza. En el mundo de Alma, la costumbre de decidir quién tiene razón y quién está equivocado hace que muchas personas se detengan apenas encuentran dónde colocar al otro. Sus diferencias se convierten en motivos para juzgarse y dejan de conocer todo lo que podrían descubrir una de otra. Cuando escuchamos cómo alguien ha llegado a sentir o pensar algo, sus palabras adquieren matices que al principio se nos escapaban. Podemos preguntarle, contarle lo que nosotros hemos vivido y seguir encontrando maneras de comprendernos a través de ese trato. Lo más sencillo es seguir conociendo a alguien aun cuando creamos saber cómo es. Una etiqueta puede darnos la sensación de haberlo comprendido y hacernos dejar de prestar atención. Las personas son complejas y siguen cambiando; siempre habrá algo que se nos escape, incluso en quienes tenemos más cerca. Quizá nunca lleguemos a comprenderlas por completo, pero podemos seguir intentándolo. Con el tiempo, esa atención nos permite confiar más unos en otros, incluso cuando todavía hay cosas que no comprendemos.
 
 Vekún apoyó el hocico sobre las patas delanteras. A esa altura podía ver, entre las rodillas de Siven, el espacio vacío del anular izquierdo. El hombre movía el pulgar sobre la palma, como si aún tuviera algo pequeño que alisar allí.
 

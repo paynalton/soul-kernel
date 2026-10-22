@@ -1,4 +1,4 @@
-# El arribo
+# Capítulo 3
 
 Al rodear una saliente de piedra, Alma vio los primeros tejados. Se detuvo con una mano apoyada en la roca, todavía tibia en la parte que había recibido el sol, y buscó a Vekún con la otra.
 
@@ -10,7 +10,7 @@ Vekún se adelantó hasta una piedra baja y apoyó en ella las patas delanteras.
 
 —Ya estamos cerca.
 
-Alma siguió con la mirada una de las calles que partían del centro. Se desviaba un poco, desaparecía detrás de unos árboles y volvía a mostrarse entre dos casas. Estaba intentando encontrar su continuación en la ladera cuando una nube alcanzó las primeras huertas. La blancura avanzó entre los tejados, cubrió un grupo de viviendas y dejó durante unos instantes las cuatro torres sobresaliendo de ella. Después también sus remates se borraron. En el lugar donde acababa de ver el pueblo quedó una extensión blanca que se derramaba lentamente entre los árboles.
+Alma recorrió con la mirada una de las calles que partían del centro. Se desviaba un poco, desaparecía detrás de unos árboles y volvía a mostrarse entre dos casas. Estaba intentando encontrar su continuación en la ladera cuando una nube alcanzó las primeras huertas. La blancura avanzó entre los tejados, cubrió un grupo de viviendas y dejó durante unos instantes las cuatro torres sobresaliendo de ella. Después también sus remates se borraron. En el lugar donde acababa de ver el pueblo quedó una extensión blanca que se derramaba lentamente entre los árboles.
 
 Una ráfaga le enfrió los dedos apoyados en la roca. Alma retiró la mano y se frotó el brazo.
 

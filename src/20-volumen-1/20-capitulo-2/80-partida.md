@@ -1,5 +1,3 @@
-# La partida
-
 Alma apartó la mirada del palacio y encontró a Vekún esperándola entre los árboles, al comienzo del sendero. Lo alcanzó, acomodándose el saco de piel para que una esquina de los libros dejara de rozarle la cadera. Durante un trecho todavía vieron la luz de las auroras entre las ramas; después el camino dobló y el follaje ocultó el palacio. Bajo sus pies, el empedrado fue cediendo espacio a la tierra, a las raíces que cruzaban de un lado a otro y a las hojas amontonadas en los bordes. Vekún avanzaba entre los árboles que bordeaban el camino y se acercaba a ella donde los arbustos le dejaban paso.
 
 Regresaron por la falda de la colina hasta que los árboles se abrieron y el valle apareció de nuevo. Alma reconoció el camino ancho allá abajo, la curva que seguía entre los terrenos despejados y, a lo lejos, las torres de la ciudad. Se detuvo junto a Vekún, buscando entre los senderos una dirección que le resultara familiar.
@@ -10,7 +8,7 @@ Regresaron por la falda de la colina hasta que los árboles se abrieron y el val
 
 —Por aquí podemos seguir. Hay una bajada más adelante.
 
-Alma fue detrás de él. Desde aquel tramo, el camino principal parecía fácil de recorrer; Alma recorrió con la mirada su trazado hasta donde se perdía en dirección a las torres.
+Alma fue detrás de él. Desde aquel tramo, el camino principal parecía fácil de recorrer; ella examinó su trazado hasta donde se perdía en dirección a las torres.
 
 —Vekún, ¿por qué no quisiste que fuéramos por el camino de la ciudad cuando salimos del claustro?
 

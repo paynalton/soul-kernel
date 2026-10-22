@@ -1,5 +1,3 @@
-# Capítulo 1 – Arribo
-
 En la oscuridad comenzaron a distinguirse manchas de color. Alma vio primero unos contornos vegetales, borrosos, y después las hojas que se movían unas sobre otras. Le llegó un murmullo de agua. Al cambiar el peso de un pie al otro sintió ceder el musgo bajo sus suelas.
 
 Estaba de pie en un jardín.
@@ -14,7 +12,7 @@ Soltó el pétalo y contempló las flores que tenía delante. Reconocía las for
 
 Aun así, era hermoso. Le daba un poco de vergüenza estar pensando en lo que le faltaba a un lugar como aquel.
 
-Avanzó hasta un riachuelo angosto que corría entre piedras limpias. Al cruzarlo vio unas ruinas cubiertas de hiedra, medio ocultas por los arbustos. Quedaban escalones y fragmentos de muros en cuyos bordes crecían manojos de hierba húmeda. Entre las hojas se alcanzaban a distinguir símbolos tallados en la piedra: círculos, líneas que se cruzaban y trazos gastados que Alma siguió con la mirada. Algunos le resultaban familiares, aunque no conseguía recordar dónde podía haberlos visto. La tierra despedía un olor profundo, removido por la lluvia.
+Avanzó hasta un riachuelo angosto que corría entre piedras limpias. Al cruzarlo vio unas ruinas cubiertas de hiedra, medio ocultas por los arbustos. Quedaban escalones y fragmentos de muros en cuyos bordes crecían manojos de hierba húmeda. Entre las hojas se alcanzaban a distinguir símbolos tallados en la piedra: círculos, líneas que se cruzaban y trazos gastados que Alma examinó. Algunos le resultaban familiares, aunque no conseguía recordar dónde podía haberlos visto. La tierra despedía un olor profundo, removido por la lluvia.
 
 A un lado de las ruinas nacía un sendero estrecho. Las ramas caídas y la maleza dejaban ver apenas una franja de suelo que se prolongaba hasta una puerta de hierro. Alma distinguió el óxido entre el follaje y trató de mirar más allá, pero desde allí no alcanzaba a ver adónde conducía. Podría acercarse después. Por el momento quería subir a las ruinas y contemplar el jardín desde arriba.
 
@@ -22,7 +20,7 @@ Cuando apoyó un pie en el primer escalón, una ráfaga le dio de frente. Se rod
 
 Llevaba su conjunto favorito, el que elegía cuando necesitaba sentirse segura. Recordaba haberse puesto otra cosa para subir al avión. Rozó la tela sin comprender cuándo podía haberse cambiado y después extendió una mano frente a sus ojos. La piel, las uñas y la forma de los dedos tenían pequeñas diferencias; le gustaban, aunque le resultaba extraño encontrarlas allí. También se sentía un poco más alta. Se enderezó, mirando el escalón junto a sus pies, y deseó tener un espejo para comprobar qué otras cosas habían cambiado.
 
-Alzó la vista hacia las ruinas. Antes de que pudiera seguir subiendo, el viento le levantó un mechón de cabello y corrió a sus espaldas con una fuerza que la hizo girar. Las flores se doblaron una tras otra hacia el borde del bosque. Alma siguió aquel movimiento.
+Alzó la vista hacia las ruinas. Antes de que pudiera seguir subiendo, el viento le levantó un mechón de cabello y corrió a sus espaldas con una fuerza que la hizo girar. Las flores se doblaron una tras otra hacia el borde del bosque. Alma miró las flores que se inclinaban.
 
 El viento se arremolinó sobre las flores azules cercanas a los árboles. Alma vio desprenderse los pétalos y elevarse en una espiral cada vez más cerrada. Entre ellos apareció una nube de polen iridiscente que siguió creciendo hasta ocultar los tallos. El azul brillaba incluso bajo la luz gris del jardín.
 
@@ -40,7 +38,7 @@ Sus ojos eran grandes, de un azul profundo en el que la luz parecía hundirse. L
 
 Permanecieron inmóviles. Alma podía oír el agua del riachuelo detrás de sí y el roce de las hojas entre los árboles. Quería acercarse lo suficiente para verlo mejor, pero la criatura seguía cada movimiento suyo. Había algo familiar en su presencia que no lograba reconocer.
 
-—No te acerques—dijo la criatura.
+—No te acerques —dijo la criatura.
 
 Alma dio un pequeño respingo. La voz era grave y suave, y le había resonado dentro de la cabeza con una cercanía inesperada. Se quedó mirándolo un momento antes de levantar las manos. La sorpresa cedió lo suficiente para que pudiera responder con calma.
 

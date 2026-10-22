@@ -1,34 +1,29 @@
-# La Carpa Médica
+Despertó entre un murmullo de voces. Durante unos instantes permaneció mirando las costuras de una lona blanca, iluminadas por una lámpara que quedaba fuera de su vista. Podía mantener los ojos abiertos sin que la claridad la lastimara.
 
-Despertó sin sobresalto.
-La conciencia volvió de forma suave, sin sacudidas ni estridencias.
-Ya no había luces hirientes, ni voces saturadas de dolor.
-Solo un murmullo constante, una luz difusa colándose entre las costuras de la lona blanca, y una presión molesta en el pecho.
+El costado izquierdo seguía doliéndole. Mientras permanecía quieta podía soportarlo, pero al intentar respirar más hondo la punzada la obligaba a detenerse. Esperó, tomó un poco de aire y lo soltó despacio.
 
-El cuerpo no dolía de forma punzante, pero respiraba con dificultad.
-El aire entraba como a través de un filtro dañado, lento y con esfuerzo.
-No había frío, no como en la playa… pero todavía sentía que algo dentro de ella temblaba.
+El calor de la carpa le llegaba al rostro. Recordó el frío de una playa, un temblor que tampoco había conseguido contener. Aquel recuerdo se deshizo mientras trataba de acomodar los dedos bajo la manta. Todavía temblaba.
 
 Los sonidos exteriores eran apagados, lejanos: motores, gritos, pasos. En el interior, todo era más ordenado. Profesionales moviéndose entre camillas, revisando heridos con rapidez precisa.
 Estaba en una unidad médica de campaña. Lo comprendió sin necesidad de que se lo dijeran.
 
 Frente a ella, una doctora joven, concentrada, revisaba su costado con mirada fija.
-Tenía el rostro limpio, el uniforme apenas manchado, pero sus ojos hablaban de horas sin descanso.
+Tenía el uniforme manchado a la altura de las rodillas y una marca roja donde los lentes le rozaban la nariz.
 Sin mirarla directamente, anunció:
 
-—Saturación en 91. Costado izquierdo hipomóvil. Sospecha de fractura costal, sin desplazamiento ni crepitación. Disnea leve, estable por el momento.
+—Saturación en 91. Respiración superficial y menor expansión del lado izquierdo. Sospecha de fracturas costales.
 
 A su lado, un residente con bata y rostro tenso aguardaba instrucciones.
 
-—Doctor Navarro —dijo la doctora—. Glasgow y pupilas. Si responde bien, la mantenemos como prioridad secundaria. Si no, la pasamos al frente. No tengo margen para fallos.
+—Doctor Navarro, valora Glasgow y pupilas —indicó la doctora con firmeza—. Controla la saturación y la respiración. Necesita vigilancia continua hasta el traslado.
 
 —Entendido.
 
-La doctora revisó una vez más los niveles de oxígeno, hizo un último ajuste en el vendaje del costado de Alma y echó una rápida mirada al resto de la carpa.
+La doctora comprobó otra vez la lectura del monitor y observó cómo se elevaba el pecho de Alma antes de mirar hacia las otras camillas.
 
-—Mantén vigilancia constante. Si hay signos de descompensación, me avisas de inmediato —le dijo a Elías.
+—Elías, quédate con ella. Si aumenta la dificultad para respirar o disminuye su respuesta, me llamas de inmediato.
 
-Sin esperar respuesta, giró sobre sus talones y se dirigió a la siguiente camilla, donde un nuevo grupo de paramédicos se agrupaba en torno a otro herido. No volvió la vista atrás.
+Sin esperar respuesta, giró sobre sus talones y se dirigió a la siguiente camilla, donde varios paramédicos se reunían en torno a otro herido. No volvió la vista atrás.
 
 Elías se acercó con cautela.
 Tomó una linterna del bolsillo, se inclinó y colocó una mano sobre la frente de Alma.
@@ -41,9 +36,7 @@ Repitió con el izquierdo. Igual.
 
 —Reactivas, simétricas —murmuró mientras anotaba.
 
-Alma abrió los ojos por completo.
-No parecía asustada. Tampoco perdida.
-Solo… vacía. Como si aún no supiera si estaba despierta o no.
+Alma abrió los ojos por completo. Miró la mano que retiraba la linterna, la manga de Elías y el borde de la camilla. Podía reconocer cada cosa, pero le costaba reunirlas en un lugar al que hubiera llegado por su cuenta.
 
 Elías guardó la linterna.
 
@@ -57,7 +50,7 @@ Ella parpadeó asintiendo levemente.
 
 —¿Sabes dónde estás?
 
-—En… ¿una carpa?.
+—En… ¿una carpa?
 
 —¿Recuerdas lo que pasó?
 
@@ -69,28 +62,23 @@ Y después… nada.
 El doctor anotó, sin hacer comentarios.
 Sobre la mesa cercana vio un pasaporte abierto, húmedo pero legible. Lo tomó.
 
-—Alma Escarlet Jiménez. ¿Correcto?.
+—Alma Escarlet Jiménez. ¿Correcto?
 
 Se enderezó ligeramente. Respiró hondo antes de continuar.
 
-—Fuiste víctima de un accidente aéreo.
-Te encontraron atrapada, pero consciente. Presentas una posible fractura en las costillas y una leve dificultad para respirar, pero estás estable.
-Estás en una unidad médica de emergencia.
-En cuanto haya disponibilidad, te trasladaremos a un hospital. Por ahora estás segura.
+—Hubo un accidente aéreo. Te encontraron atrapada entre los asientos. Creemos que tienes costillas fracturadas y estamos vigilando tu respiración. Te trasladarán a un hospital; mientras tanto, voy a quedarme contigo.
 
 Ella lo miró, como si quisiera creerle.
 —¿Esto es… real?
 
 —Estás viva. Y estás aquí. Eso es lo que importa.
 
-Alma cerró los ojos.
-No por agotamiento, sino por instinto.
-Quería encontrar algo… al otro lado.
+Alma cerró los ojos. Quería encontrar aquel lugar del que todavía le quedaban la luz y el agua.
 
 Y entonces, lo sintió.
 Un sonido, casi imperceptible.
 Como un canto sin voz, como una memoria temblando bajo la piel.
-Y una luz. Azul. Reflejada en el soporte metálico del suero.
+Y una luz. Azul. Le pareció verla donde había estado mirando el soporte metálico del suero.
 Familiar. Dolorosa. Real.
 
 No lo pensó. Solo lo dijo.

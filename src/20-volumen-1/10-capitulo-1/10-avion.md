@@ -1,4 +1,4 @@
-# Capítulo 1 – El avión
+# Capítulo 1
 
 El sol la despertó.
 
@@ -28,7 +28,7 @@ La señal del cinturón se encendió con un leve *ding*. Alma alzó la cabeza al
 
 Un estruendo seco sacudió el fuselaje y ahogó el resto del anuncio. Alma buscó los extremos del cinturón mientras el asiento temblaba debajo de ella. A su alrededor se oyeron gritos; alguien se aferró al respaldo de enfrente. Consiguió encajar la hebilla y miró al hombre de su lado, que acababa de despertar.
 
-—¡Póngaselo! —le dijo, señalando el cinturón que tenía junto a la cadera.
+—¡Póngaselo! —le gritó, señalando el cinturón que tenía junto a la cadera.
 
 Él asintió lentamente y bajó una mano hacia el asiento. Otra sacudida lo levantó antes de que pudiera sujetarse. Alma lo vio salir despedido hacia el pasillo y lo perdió de vista entre los respaldos. Los gritos aumentaron, mezclados con golpes que llegaban de distintas partes de la cabina.
 
@@ -41,3 +41,5 @@ Buscó la ventanilla. Más allá del cristal estaba el suelo, cada vez más pró
 La sombra lo ocupó todo.
 
 Después, oscuridad.
+
+---

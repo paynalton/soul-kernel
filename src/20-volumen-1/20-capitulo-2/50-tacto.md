@@ -1,5 +1,3 @@
-# La sala del tacto
-
 Alma entrecerró los ojos ante la claridad. Se habían quedado bajo un dintel de piedra, adornado con una hilera de figuras talladas; más arriba, el arco de la entrada se abría hacia una cúpula blanca. Vekún volvió a temblar entre sus brazos y ella lo acercó al pecho mientras esperaba que sus ojos se acostumbraran.
 
 La sala era redonda. A lo largo de los muros, hombres y mujeres de piedra descansaban sobre pedestales: una joven recogía los pliegues de su vestido junto a la rodilla; un hombre, con el torso inclinado, parecía a punto de levantarse; más allá, dos figuras apoyaban las manos sobre los hombros de una tercera. La luz les recorría la frente y los brazos, y dejaba una sombra suave bajo los mentones. Alma reconoció las túnicas y las proporciones de las esculturas griegas que había dibujado alguna vez. Sin moverse de la entrada, Alma recorrió con la mirada los perfiles de las esculturas hasta descubrir el otro arco, la única salida, enmarcado por un dintel semejante al que tenían encima.

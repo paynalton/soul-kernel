@@ -6,6 +6,8 @@ Guía consolidada al cierre de la redacción del capítulo 4, el 19 de octubre d
 
 ## 1. Alcance y prioridad
 
+**Separación de registros, 21 de octubre de 2026:** esta guía rige la narración de Yoliraeth. El prólogo fijado para el volumen, el vuelo y los cortes de la línea externa se evalúan con la [guía del prólogo y la realidad](guia-de-estilo-realidad.md). Las observaciones sobre personal médico y continuidad que aparecen aquí son criterios compartidos; no imponen a esas escenas el ritmo del pueblo de Siven. Los enlaces sensoriales dentro de Yoliraeth conservan el registro de su escena anfitriona.
+
 El capítulo 4 representa el grado de refinamiento que se busca mantener. Tomarlo como referencia supone atender a su percepción concreta, su continuidad, la variedad de sus pausas y el trato entre personajes; no copiar mecánicamente cada construcción que contiene. Una frase presente en el capítulo no se convierte por sí sola en regla.
 
 Las instrucciones recientes del autor prevalecen sobre esta guía. Después se consultan el manuscrito revisado y las fichas y rutas actualizadas. Los planes antiguos y las interpretaciones de la IA no deben restituir decisiones descartadas. Una corrección local tiene alcance local, salvo que el autor la haya formulado para el libro entero.
@@ -13,6 +15,12 @@ Las instrucciones recientes del autor prevalecen sobre esta guía. Después se c
 Las pautas generales de esta guía reúnen reglas explícitas del autor. Los ejemplos muestran cómo se aplicaron; las particularidades de personajes y escenas se identifican por separado. No se autoriza con esta guía una reescritura automática de los capítulos anteriores.
 
 ## 2. Voz literaria y experiencia humana
+
+### Convención de encabezados y cambios de plano — decisión autoral
+
+Solo el primer archivo de cada capítulo lleva encabezado, con el formato `# Capítulo N`. El prólogo lleva un único `# Prólogo` al comienzo. Las partes conservan sus nombres de archivo para organizar el trabajo, sin títulos intermedios en el texto de lectura.
+
+Usar `---`, en línea propia y separado de la prosa por líneas en blanco, para los cambios entre la realidad y Yoliraeth. Si el cambio coincide con el paso al archivo siguiente, colocar el separador al final del archivo que se deja, sin duplicarlo al comenzar el siguiente. No añadir separadores por el mero cambio de archivo dentro de un mismo plano. Las pausas internas del prólogo señaladas con una raya aislada no representan cambios de línea temporal.
 
 La prosa debe ser literaria, imaginativa, corporal y accesible. La sensibilidad nace de la precisión de la experiencia: qué alcanza a ver alguien, qué le duele, qué recuerda, cómo sostiene un objeto, qué desea decir y qué termina diciendo. Evitar que el relato adopte la organización de un ensayo académico o de una explicación psicológica dirigida al lector.
 
@@ -112,7 +120,13 @@ Evitar las antítesis explicativas que niegan una lectura y entregan inmediatame
 
 Vigilar la repetición de «como si», «algo», «por primera vez», «sin palabras», miradas y gestos semejantes. Son recursos disponibles, no palabras vetadas. La revisión debe determinar si aportan cadencia, precisión o una redundancia.
 
+**Refuerzos del pensamiento del pueblo — precisión autoral.** Exponer una forma de pensamiento ajena a las premisas occidentales requiere refuerzos para el lector. Conservar las reformulaciones, los ejemplos y los enlaces que lo ayudan a comprenderla, aunque retomen una idea ya expresada. Evaluar qué aporta cada reiteración a esa comprensión antes de proponer un recorte. En la conversación de Siven con Vekún, los refuerzos sobre polarización, emociones y equivalencia se conservan por decisión expresa del autor; no tratarlos como redundancias solo porque comparten un núcleo conceptual.
+
 ## 11. Diálogos que pertenecen a los personajes
+
+El verbo de habla, los calificativos y la puntuación deben expresar cómo se pronuncia cada intervención según la situación: volumen, intención, emoción, distancia del interlocutor y ruido del entorno. Usar «gritó» cuando el personaje grita, «susurró» cuando habla en un susurro y una indicación de firmeza cuando la voz lo requiere. «Dijo» sigue siendo válido cuando no hace falta precisar el modo de hablar; no debe ocultar una intensidad relevante para la escena.
+
+Si un personaje cambia de destinatario o de volumen dentro de una intervención, hacer perceptible la transición. Una llamada a distancia, una orden durante un rescate y unas palabras de consuelo cercanas pueden exigir tonos distintos incluso en la misma escena. El enojo no implica siempre gritar, ni la solemnidad hablar en voz baja. Evitar añadir un calificativo a cada réplica por sistema o repetir en el inciso una emoción ya suficientemente expresada. Este criterio rige tanto en Yoliraeth como en la realidad.
 
 Cada intervención debe responder al estado de la conversación y a lo que la persona necesita expresar. Evitar preguntas artificiales cuyo único propósito sea dar pie a una explicación. No hacer que alguien comente pensamientos ajenos que no puede conocer.
 

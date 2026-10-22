@@ -1,5 +1,3 @@
-## Capítulo 2 – El Bosque
-
 Alma caminaba sin rumbo desde hacía quién sabe cuánto. Entre los troncos apenas quedaba espacio para pasar; al rodear uno encontraba otro atravesado por ramas bajas y tenía que buscar de nuevo por dónde seguir. Su vestido se enganchaba en las zarzas. A veces conseguía soltar la tela con los dedos, pero otras oía el desgarrón antes de detenerse. Los brazos y las piernas estaban cubiertos de rasguños que ardían cuando las hojas húmedas le rozaban la piel.
 
 Cada vez que creía encontrar un paso libre, otra maraña le cerraba el camino. Apretó los labios al soltar un pedazo de tela que había quedado prendido de una espina. Le daban ganas de tirar con fuerza, de gritar, pero hasta desengancharse le exigía una paciencia que ya no tenía. ¿Cuánto más tendría que caminar? Miró detrás de sí y trató de reconocer los troncos que acababa de rodear. Desde aquel lado se parecían tanto a los demás que ya no estaba segura de por dónde había venido.

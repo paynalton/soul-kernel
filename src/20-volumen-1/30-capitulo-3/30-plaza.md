@@ -1,5 +1,3 @@
-# La plaza
-
 La calle descendía entre cercas bajas y paredes recién lavadas por la lluvia. Taren caminaba unos pasos delante de ellos, ladeando de vez en cuando el bulto para dejar pasar a quienes subían. Saludaba sin detenerse; a una mujer le preguntó por una puerta que habían terminado de colocar, y un hombre que llevaba hojas anchas sobre la cabeza le avisó que había dejado algo junto a su entrada. Alma procuraba pisar donde la tierra se veía más firme. El tobillo le dolía cada vez que encontraba un desnivel y el agua de los tenis se desplazaba bajo sus plantas con una presión fría y desagradable.
 
 Más abajo, los canales se hundían bajo unas bocas de piedra. El ruido del agua continuó a sus pies mientras la calle se abría hacia una extensión clara, rodeada de flores.
@@ -22,7 +20,7 @@ Dejó que Alma se acomodara antes de continuar. Ella estiró la pierna dolorida,
 
 Alma abrió el saco y, al apartar los libros, reparó en que todo seguía perfectamente seco. Palpó el fondo y las envolturas de la comida; después pasó la mano por la piel exterior, que ni siquiera por fuera se sentía húmeda. Había corrido bajo aquella lluvia con él al hombro sin pensar en lo que llevaba dentro; solo ahora comprendía que el saco era completamente impermeable. Acarició un instante su superficie antes de sacar uno de los paquetes de Zaira. Dentro había pan y fruta, que conservaban un olor dulce y tenue que le recordó la cocina y el café servido junto al mole. Todavía no tenía mucha hambre, pero partió un trozo de pan para ella y dejó otro sobre la envoltura, frente a Vekún. Él lo sujetó entre las patas delanteras y empezó a comer por una esquina. Alma se recostó contra la madera sosteniendo el suyo entre ambas manos; el perfume de resina le llegaba desde el cuello de la chamarra cada vez que bajaba la cabeza.
 
-Desde la banca podían ver tres puestos, una fuente y buena parte del espacio que rodeaba el templo. La gente llegaba por una calle, cruzaba entre los jardines y desaparecía por otra, a veces después de detenerse a conversar o de cambiar un bulto de brazos. Había caminos de tierra con huellas profundas de ruedas y otros donde pequeños guijarros rojizos y verdes dibujaban franjas que se prolongaban hacia casas de ventanas amplias. Alma siguió uno de aquellos caminos con la vista hasta que se perdió entre los árboles. Más cerca, las flores crecían alrededor de una estatua de madera, sobre un zócalo de piedra cuyas aristas desiguales sobresalían entre las hojas. Representaba a una mujer inclinada hacia atrás, con el rostro vuelto hacia un pájaro que le nacía del pecho. Dos plumas se curvaban hacia delante sobre la cabeza del ave, y las alas abiertas se confundían con los brazos de la mujer.
+Desde la banca podían ver tres puestos, una fuente y buena parte del espacio que rodeaba el templo. La gente llegaba por una calle, cruzaba entre los jardines y desaparecía por otra, a veces después de detenerse a conversar o de cambiar un bulto de brazos. Había caminos de tierra con huellas profundas de ruedas y otros donde pequeños guijarros rojizos y verdes dibujaban franjas que se prolongaban hacia casas de ventanas amplias. Alma recorrió con la mirada uno de aquellos caminos hasta donde se perdía entre los árboles. Más cerca, las flores crecían alrededor de una estatua de madera, sobre un zócalo de piedra cuyas aristas desiguales sobresalían entre las hojas. Representaba a una mujer inclinada hacia atrás, con el rostro vuelto hacia un pájaro que le nacía del pecho. Dos plumas se curvaban hacia delante sobre la cabeza del ave, y las alas abiertas se confundían con los brazos de la mujer.
 
 Alma dejó de masticar.
 
@@ -44,7 +42,7 @@ Siven llegó por la misma calle que ellos habían recorrido, acompañado de Oren
 
 Alma recogió la envoltura del pan y la acercó a sus piernas.
 
-Lo vio entrar en el círculo de juegos con la espalda encorvada y la cabeza adelantada entre los hombros. El saco se le amontonaba sobre la nuca, bajo el cabello revuelto, y su cuerpo corpulento oscilaba a cada paso, como si tuviera que apartar su propio peso antes de mover una pierna. Alma siguió el vaivén de aquellos brazos largos, las manos que colgaban abiertas junto a los muslos. Cuando dos niños se le prendieron de ellos, Siven se detuvo y los alzó con un movimiento brusco que le hizo tensar los dedos sobre la envoltura del pan. Los niños reían suspendidos a sus costados; ella esperaba que alguno se soltara. Él los bajó hasta que sus pies tocaron la tierra y volvió la cara hacia Nara, descubriendo los dientes chuecos en una sonrisa amplia. A Alma le desagradó la manera en que el labio se estiraba sobre ellos, las sombras que se hundían junto a la nariz y aquel mentón que parecía buscar siempre la cara de quien le hablaba. Tragó el bocado que aún tenía en la boca y dejó el resto del pan sobre sus piernas.
+Lo vio entrar en el círculo de juegos con la espalda encorvada y la cabeza adelantada entre los hombros. El saco se le amontonaba sobre la nuca, bajo el cabello revuelto, y su cuerpo corpulento oscilaba a cada paso, como si tuviera que apartar su propio peso antes de mover una pierna. Alma observó el vaivén de aquellos brazos largos, las manos que colgaban abiertas junto a los muslos. Cuando dos niños se le prendieron de ellos, Siven se detuvo y los alzó con un movimiento brusco que le hizo tensar los dedos sobre la envoltura del pan. Los niños reían suspendidos a sus costados; ella esperaba que alguno se soltara. Él los bajó hasta que sus pies tocaron la tierra y volvió la cara hacia Nara, descubriendo los dientes chuecos en una sonrisa amplia. A Alma le desagradó la manera en que el labio se estiraba sobre ellos, las sombras que se hundían junto a la nariz y aquel mentón que parecía buscar siempre la cara de quien le hablaba. Tragó el bocado que aún tenía en la boca y dejó el resto del pan sobre sus piernas.
 
 Nara le señaló el puente. Siven se dobló para mirar debajo de las tablas, con las rodillas muy separadas, y se subió una manga que estorbaba al alcanzar la cuerda. Quedó a la vista un antebrazo cubierto de vello, cruzado por cicatrices pálidas y pequeños rasguños rojizos. Una cuerda se había salido de su sitio; la recogió con aquellos dedos gruesos y empezó a acomodarla mientras Iriel le hablaba cerca del oído. Alma no podía dejar de mirar la mano izquierda, el hueco del dedo ausente que aparecía y desaparecía entre las vueltas de la cuerda. Le revolvía el estómago imaginar el roce de esa piel endurecida. Siven probó el nudo con dos tirones que sacudieron el puente y se incorporó trabajosamente, apoyando una mano sobre el muslo. Nara pasó primero, con los brazos abiertos, y él caminó a su lado, encorvado, siguiendo cada uno de sus pasos con la mirada. Alma deseó que se apartara un poco para dejarla cruzar.
 
@@ -72,7 +70,7 @@ Una mujer que acomodaba canastas bajo un toldo le hizo una seña a Siven. Cuando
 
 Taren levantó una mano desde el puesto y la mujer se volvió hacia él. Intercambiaron unas palabras que Alma no alcanzó a distinguir entre el rumor de la fuente y las voces de quienes pasaban frente a la banca. La mujer señaló la parte alta de su comercio, adosado a uno de los campanarios, y después extendió el brazo hacia Siven. Taren asintió. Ella se echó a reír, le dio otra palmada a Siven y regresó a la hilera de recipientes bajo el toldo.
 
-Alma siguió con la vista el vuelo de su falda hasta que un golpe de madera la hizo mirar hacia la calle. Una carreta se había detenido donde el empedrado terminaba. Una rueda estaba hundida en un vado y el hombre que la conducía tiraba de las riendas, sin conseguir que el caballo avanzara. Siven ya iba hacia él.
+Alma observó el vuelo de su falda hasta que un golpe de madera la hizo mirar hacia la calle. Una carreta se había detenido donde el empedrado terminaba. Una rueda estaba hundida en un vado y el hombre que la conducía tiraba de las riendas, sin conseguir que el caballo avanzara. Siven ya iba hacia él.
 
 Siven levantó una mano hacia el conductor, que dejó de tirar de las riendas.
 
@@ -112,7 +110,7 @@ Vekún asintió.
 
 —No entiendo cómo calculan cuánto vale cada cosa. Unos pagan más, otros menos, y él se lo lleva sin dejar nada. ¿Cómo saben cuánto les toca?
 
-Vekún siguió con la mirada al hombre que se alejaba con el recipiente.
+Vekún observó al hombre mientras se alejaba con el recipiente.
 
 —Tal vez las cosas no valen lo mismo para todos. A ti te hacen falta unos zapatos secos; alguien que tenga varios pares en casa quizá no daría tanto por ellos.
 
@@ -220,7 +218,7 @@ Vekún miró hacia Siven y luego a ella.
 
 Alma apretó los labios y apartó la mirada. Le enfadó que Vekún le hablara así, como si fuera ella quien estuviera buscando problemas. Tenía una respuesta en la punta de la lengua, pero prefirió callarse y volvió la atención hacia los vecinos. Las voces habían vuelto a subir. Junto a la carreta, dos hombres discutían casi frente contra frente; uno avanzó y el otro plantó los pies, negándose a cederle espacio. A su alrededor también se gritaban, se interrumpían y señalaban la carga con movimientos cada vez más bruscos. Alma se quedó mirando una mano que se alzaba hacia el hombre que había retrocedido antes contra la caja. Esta vez iba a pegarle. Se le contrajo el estómago, pero la mano se posó sobre un hombro y quedó allí apenas un instante. El que había extendido el brazo cerró la boca, dio un paso atrás y se apartó. El otro continuó discutiendo, ahora con una mujer que se había acercado a ellos.
 
-Alma siguió al primero con la mirada, esperando que volviera. Lo vio recoger su cesta y alejarse por uno de los caminos. Cerca de la rueda ocurrió lo mismo: una mujer dejó de responder a Oren, le tocó el hombro y permaneció a su lado, callada. Oren se volvió hacia quienes discutían junto al puesto y entró en aquella conversación. Las voces que iban quedando se reunían alrededor de nuevos interlocutores, y durante un rato todos volvían a hablar a la vez, hasta que alguien cedía, apoyaba una mano en el hombro de otro y guardaba silencio. Algunos se marchaban enseguida; otros se quedaban escuchando, sin intervenir de nuevo.
+Alma mantuvo los ojos en el primero, esperando que regresara. Lo vio recoger su cesta y alejarse por uno de los caminos. Cerca de la rueda ocurrió lo mismo: una mujer dejó de responder a Oren, le tocó el hombro y permaneció a su lado, callada. Oren se volvió hacia quienes discutían junto al puesto y entró en aquella conversación. Las voces que iban quedando se reunían alrededor de nuevos interlocutores, y durante un rato todos volvían a hablar a la vez, hasta que alguien cedía, apoyaba una mano en el hombro de otro y guardaba silencio. Algunos se marchaban enseguida; otros se quedaban escuchando, sin intervenir de nuevo.
 
 Liria sostuvo todavía un intercambio con la mujer de las canastas. Señaló sus cajas, escuchó la respuesta y terminó por tocarle el hombro. Después se retiró junto a su puesto. La mujer siguió hablando con un hombre que defendía la posición de la carreta, mientras Oren se acercaba a ellos. Alma buscó entre las caras a quienes habían levantado la mano durante su votación. Varios ya se habían ido; otros estaban quietos alrededor de los pocos que seguían discutiendo. Nadie parecía extrañado por aquellas retiradas.
 
@@ -228,13 +226,13 @@ Liria sostuvo todavía un intercambio con la mujer de las canastas. Señaló sus
 
 Vekún observaba con las orejas erguidas.
 
-Tavia se agachó junto a la rueda y mostró el espacio que quedaba entre el puesto y el jardín. Oren respondió señalando una pila de tablas; ella fue hasta allí, levantó una de las puntas y la dejó caer. El golpe sonó seco. Darel tocó el hombro de Oren y se retiró junto al caballo.
+La mujer de las canastas se agachó junto a la rueda y mostró el espacio que quedaba entre el puesto y el jardín. Oren respondió señalando una pila de tablas; ella fue hasta allí, levantó una de las puntas y la dejó caer. El golpe sonó seco. Darel tocó el hombro de Oren y se retiró junto al caballo.
 
 Solo ellos dos seguían hablando.
 
-Alma los escuchó discutir sobre el peso, la tierra blanda, el lugar por donde podían sacar las vigas sin que alguien tuviera que pasar debajo. Tavia se arrodilló para introducir la mano bajo la mesa de Liria y llamó a Oren con un gesto. Él se inclinó a su lado. Ella le mostró algo, volvieron a mirar las tablas y Oren permaneció un momento con las manos en la cintura. Finalmente le puso una sobre el hombro y se apartó.
+Alma los escuchó discutir sobre el peso, la tierra blanda, el lugar por donde podían sacar las vigas sin que alguien tuviera que pasar debajo. La mujer se arrodilló para introducir la mano bajo la mesa de Liria y llamó a Oren con un gesto. Él se inclinó a su lado. Ella le mostró algo, volvieron a mirar las tablas y Oren permaneció un momento con las manos en la cintura. Finalmente le puso una sobre el hombro y se apartó.
 
-—Darel, vas a retroceder hasta dejar libre la esquina —dijo Tavia—. Ponemos las tablas sobre el vado para que no se hunda la rueda. Liria sacará las cajas por aquí; debajo de su mesa caben las puntas de las vigas mientras las bajamos al otro lado. Luego retiramos las tablas y queda abierto el paso.
+—Darel, vas a retroceder hasta dejar libre la esquina —dijo la mujer—. Ponemos las tablas sobre el vado para que no se hunda la rueda. Liria sacará las cajas por aquí; debajo de su mesa caben las puntas de las vigas mientras las bajamos al otro lado. Luego retiramos las tablas y queda abierto el paso.
 
 Liria se agachó para recoger su caja. Darel tomó las riendas.
 
@@ -290,7 +288,7 @@ Se puso el pantalón sobre el brazo y bajó la mirada hacia los zapatos de caña
 
 Echó a andar hacia la banca.
 
-Una mujer dejó de ordenar unos recipientes y siguió sus pasos con la vista. Alma avanzó un poco más antes de detenerse. La mujer miró el pantalón y después alzó los ojos hacia la cara de Alma, con los labios apretados. Junto a ella, un hombre interrumpió lo que estaba haciendo; otros dos se volvieron desde la mesa. Nadie dijo nada. Alma acomodó la prenda sobre el brazo, de pronto consciente de que todos parecían estar pendientes de ella.
+Una mujer dejó de ordenar unos recipientes y se quedó mirándola mientras pasaba. Alma avanzó un poco más antes de detenerse. La mujer miró el pantalón y después alzó los ojos hacia la cara de Alma, con los labios apretados. Junto a ella, un hombre interrumpió lo que estaba haciendo; otros dos se volvieron desde la mesa. Nadie dijo nada. Alma acomodó la prenda sobre el brazo, de pronto consciente de que todos parecían estar pendientes de ella.
 
 Buscó a la mujer de la cesta. Ya se había alejado entre los jardines con lo que acababa de tomar, sin que nadie la hubiera mirado así. ¿Por qué con ella era distinto? Oren tampoco había pagado. Los había visto llevarse cosas tranquilamente, y ahora bastaba con que ella escogiera un pantalón para que dejaran sus ocupaciones y se quedaran observándola. Sintió calor bajo la gorra. Quizá esperaban que regresara a la mesa, pero ninguno se molestaba en explicarle nada; solo la miraban, como si tuviera que avergonzarse.
 

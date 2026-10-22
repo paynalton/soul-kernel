@@ -1,5 +1,3 @@
-# La casa de Mara
-
 Alma corrió hasta que el techado desapareció detrás de la lluvia. El saco le golpeaba la cadera y Vekún se movía entre sus brazos, buscando acomodar las patas contra su pecho. Cuando ella miró atrás, solo alcanzó a ver una cerca y el agua que bajaba por el borde del camino. Siguió corriendo.
 
 —Alma, espera.
@@ -60,7 +58,7 @@ Le mostró unas tijeras. Alma asintió, siguiendo con dificultad el movimiento d
 
 El hombre había añadido leña al fogón. Sopló entre las brasas y las llamas crecieron hasta envolver la corteza de un tronco pequeño. Entre los dos ayudaron a Alma a acomodarse más cerca, con la manta cerrada sobre los pies. La mujer se sentó a su lado y sostuvo un momento sus manos entre las suyas.
 
-Vekún permanecía junto a la entrada. Miró a los niños que observaban desde el fondo, luego al agua que todavía le goteaba de la cola, y buscó un espacio libre sobre el suelo. Se sacudió allí, de la cabeza a las patas, levantando una nube de gotas. La niña soltó una risita. Mara le extendió una manta junto al banco y él se echó sobre ella, cerca de Alma, con el lomo vuelto hacia el fuego.
+Vekún permanecía junto a la entrada. Miró a los niños que observaban desde el fondo, luego al agua que todavía le goteaba de la cola, y buscó un espacio libre sobre el suelo. Se sacudió allí, de la cabeza a las patas, levantando una nube de gotas. La niña soltó una risita. Su madre le extendió una manta junto al banco y él se echó sobre ella, cerca de Alma, con el lomo vuelto hacia el fuego.
 
 Durante un rato, ella solo pudo atender al calor que le alcanzaba la cara y al esfuerzo de mantener la manta en su sitio. El hombre se levantó, regresó con más leña y la acomodó cerca del fogón. La mujer extendió las prendas cortadas sobre un soporte. Afuera, la lluvia continuaba; dentro se escuchaban el chasquido de la madera y las indicaciones en voz baja que los dos se daban de vez en cuando. Poco a poco, Alma dejó de sacudirse con tanta fuerza. Pudo separar los dientes, tragar saliva y apoyar la espalda sin que le castañeteara la cabeza.
 
@@ -92,7 +90,7 @@ Vekún levantó la cabeza al oír su nombre. La niña se había acercado y estab
 
 Iriel hizo un gesto con la mano y volvió a ocuparse de algo en el alféizar. Alma respondió con una sonrisa cansada. Tenía la taza apoyada sobre las rodillas cuando advirtió el rincón de costura. Junto a la ventana había una mesa cubierta de piezas de tela de distintos grosores, recortes y tiras pardas; a su alrededor se reunían maniquíes de madera, unos casi tan altos como ella y otros del tamaño de los niños. De uno colgaba una prenda con una sola manga. En otro, unas tiras oscuras sujetaban dos piezas todavía separadas por una abertura. Algunas piezas caían en pliegues blandos sobre el borde de la mesa; otras conservaban una curva rígida. La luz gris dejaba ver superficies mates, otras ligeramente lustrosas y adornos de madera dispuestos sobre un paño.
 
-Mara siguió su mirada.
+Mara miró también hacia el rincón de costura.
 
 —Estaba terminando unas cosas cuando te vi pasar.
 
@@ -166,7 +164,7 @@ El niño dejó la cola de Vekún y siguió a su padre. Ambos salieron por la pue
 
 Alma dejó la taza en la mesa y se frotó un poco el cabello con una punta de la manta para terminar de secarlo, sujetando el resto contra el cuerpo. Mara tomó entonces la otra y la sostuvo abierta; con su ayuda, Alma deslizó la tela húmeda por debajo de la seca, manteniéndose cubierta. La nueva le envolvió los hombros con una suavidad tibia. Se acomodó los bordes sobre las piernas y tomó de nuevo la taza entre las manos.
 
-Mara se inclinó junto a Vekún y esperó a que se levantara para cambiarle la manta por una seca. Él volvió a acomodarse mientras ella recogía las dos mantas mojadas y las llevaba al otro extremo de la habitación para colgarlas. Alma la siguió con la mirada. La bebida, el fuego, aquella mujer pendiente de que ambos estuvieran abrigados; de pronto le pesó estar allí recibiéndolo todo.
+Mara se inclinó junto a Vekún y esperó a que se levantara para cambiarle la manta por una seca. Él volvió a acomodarse mientras ella recogía las dos mantas mojadas y las llevaba al otro extremo de la habitación para colgarlas. Alma la observó mientras colgaba las mantas. La bebida, el fuego, aquella mujer pendiente de que ambos estuvieran abrigados; de pronto le pesó estar allí recibiéndolo todo.
 
 —De verdad, les agradezco mucho lo que están haciendo. Pero no tengo dinero. No puedo pagarles por todo esto.
 
@@ -190,7 +188,7 @@ Siven empujó la puerta con el pie. Nara le enseñaba un animal de madera al que
 
 La miró.
 
-Ella recogió la manta sobre las rodillas y metió el borde bajo los muslos, procurando hacerlo sin descubrirse los pies. Bajo aquella mirada volvió a sentirse expuesta. Notaba cada abertura entre los pliegues, el aire que le rozaba un tobillo y la presión de sus propias manos sujetando la tela contra el pecho. Se encogió en el banco, pendiente de que la manta no resbalara al moverse, y buscó la taza para tener algo que mirar. Siven había apoyado los antebrazos en la mesa; una cicatriz ancha le atravesaba la muñeca, junto a varios rasguños recientes. Alma siguió aquellas marcas hasta sus manos, de piel áspera y endurecida, y se detuvo en las uñas gruesas y maltratadas, evitando levantar la vista hacia él. Cuando finalmente lo hizo, encontró los mismos ojos vidriosos, todavía fijos en ella. Sintió calor en las mejillas y volvió a bajar la cabeza. Le habría gustado pedirle que dejara de mirarla, pero temía que al decirlo todos se volvieran hacia ella y advirtieran lo que tanto intentaba ocultar bajo la manta. Miró de reojo a Mara, ocupada con las tazas, y a Taren; ninguno parecía incómodo con la cercanía del visitante. El roce de su respiración áspera llegaba entre los chasquidos del fuego. Alma apretó los dedos contra la tela y deseó tener su ropa puesta, poder levantarse sin ayuda y cambiar de sitio.
+Ella recogió la manta sobre las rodillas y metió el borde bajo los muslos, procurando hacerlo sin descubrirse los pies. Bajo aquella mirada volvió a sentirse expuesta. Notaba cada abertura entre los pliegues, el aire que le rozaba un tobillo y la presión de sus propias manos sujetando la tela contra el pecho. Se encogió en el banco, pendiente de que la manta no resbalara al moverse, y buscó la taza para tener algo que mirar. Siven había apoyado los antebrazos en la mesa; una cicatriz ancha le atravesaba la muñeca, junto a varios rasguños recientes. Alma bajó los ojos desde aquellas marcas hasta sus manos, de piel áspera y endurecida, y se detuvo en las uñas gruesas y maltratadas, evitando levantar la vista hacia él. Cuando finalmente lo hizo, encontró los mismos ojos vidriosos, todavía fijos en ella. Sintió calor en las mejillas y volvió a bajar la cabeza. Le habría gustado pedirle que dejara de mirarla, pero temía que al decirlo todos se volvieran hacia ella y advirtieran lo que tanto intentaba ocultar bajo la manta. Miró de reojo a Mara, ocupada con las tazas, y a Taren; ninguno parecía incómodo con la cercanía del visitante. El roce de su respiración áspera llegaba entre los chasquidos del fuego. Alma apretó los dedos contra la tela y deseó tener su ropa puesta, poder levantarse sin ayuda y cambiar de sitio.
 
 Vekún se acercó a su pierna. Alma bajó una mano para tocarlo y él alzó el hocico.
 
@@ -412,7 +410,7 @@ Mara dirigió la mirada hacia Oren.
 
 —Lo conozco desde que apenas podía andar —dijo el hombre. Tenía una mano cerrada sobre el asa—. Ha entrado en mi casa cuantas veces ha querido.
 
-Iriel intentó hablar, pero el llanto le rompió las palabras. Se cubrió la cara con las manos. Oren soltó la canasta y permaneció un momento junto a la mesa, respirando con fuerza, antes de volverse hacia la puerta. Taren le puso una mano en el brazo y lo acompañó hasta fuera.
+Iriel intentó hablar, pero el llanto le rompió las palabras. Se cubrió la cara con las manos. Oren soltó la canasta y permaneció un momento junto a la mesa, respirando con fuerza, antes de volverse hacia la puerta. Oren salió al patio.
 
 Alma había seguido cada movimiento sin intervenir. Miró las frutas otra vez y después al niño, que retrocedía hacia el banco bajo la mano de su madre.
 
@@ -444,13 +442,13 @@ De pronto creyó encontrarle sentido. Oren había llegado furioso, pero se habí
 
 —Ah, ya entiendo. Se trata de pagar el mal con bien.
 
-Todos volvieron hacia ella con desconcierto. Mara frunció el ceño y miró un instante a Taren, que tampoco parecía entender lo que Alma acababa de decir. Vekún acercó el hocico a su oído.
+Todos la miraron con desconcierto. Mara frunció el ceño y miró un instante a Taren, que tampoco parecía entender lo que Alma acababa de decir. Vekún acercó el hocico a su oído.
 
 —No creo que sea eso —le susurró.
 
 Alma iba a preguntarle a qué se refería cuando vio que Iriel la miraba. El niño se pasó la manga por la nariz y volvió la cara contra su madre. Ella cerró la boca, pendiente otra vez de la canasta llena, del olor dulce, de aquellas frutas que un momento antes había creído comprender.
 
-La puerta seguía abierta. Taren regresó y se sacudió unas gotas de la manga; detrás de él se veía el patio, con los bordes de las hojas brillando bajo una claridad más limpia. Mara levantó la cabeza.
+La puerta seguía abierta. Desde la mesa se veía el patio, con los bordes de las hojas brillando bajo una claridad más limpia. Mara levantó la cabeza.
 
 —Ha parado de llover.
 

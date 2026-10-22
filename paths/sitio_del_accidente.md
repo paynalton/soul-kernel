@@ -1,14 +1,68 @@
 # Ruta del sitio del accidente
 
+## Tiempo, conciencia e idiomas — precisión autoral del 21 de octubre de 2026
+
+Los intervalos de la línea de la realidad pueden ajustarse entre minutos y horas según lo requiera una evolución coherente. No se fija todavía una duración exacta ni una correspondencia con el tiempo del viaje de Alma.
+
+La ambulancia muestra un instante de conciencia intermitente. Alma está consciente durante ese fragmento, pero no puede hablar ni realizar movimientos voluntarios que comuniquen su estado. Los paramédicos interpretan las reacciones observables como involuntarias. Distinguir esa interpretación de la experiencia consciente que conoce el lector; no atribuir todavía una causa clínica específica a su incapacidad motora ni introducir medicamentos para explicarla sin revisión autoral.
+
+Alma habla inglés perfectamente. Los diálogos de esta línea temporal se traducirán al inglés después de la intervención; durante esta etapa se trabajan en español. Esta decisión actualiza las notas anteriores que dejaban abierta su competencia lingüística.
+
+## Trayecto y ubicación confirmados — 21 de octubre de 2026
+
+Alma viaja de México a Estados Unidos después de visitar a su familia en México. El accidente ocurre en territorio estadounidense. No se han fijado ciudades, aeropuertos, estado, aerolínea ni itinerario específico. El contexto de los servicios de emergencia debe corresponder a Estados Unidos; la nacionalidad mexicana de Alma no determina los procedimientos del operativo.
+
+Registro narrativo: [guía del prólogo y la realidad](../documents/guia-de-estilo-realidad.md). Las referencias al prólogo apuntan a la versión fijada para el volumen 1.
+
 Continuidad del plano del accidente hasta el cierre de la redacción del capítulo 3. Reúne las escenas del prólogo, la caída narrada en el capítulo 1 y los interludios incorporados durante la visita al palacio y la salida del pueblo. Las descripciones médicas de esta ruta registran lo escrito, sin añadir diagnósticos ni resolver los intervalos que el relato omite.
+
+## Percepción alterada: continuidad interna confirmada
+
+Decisión autoral del 21 de octubre de 2026. Justo después del accidente, Alma puede oír, ver y sentir mucho más de lo habitual, hasta superar los límites de los sentidos naturales. Conforme transcurren los minutos en la realidad, ese estado se regula. Su intensidad inicial y su regulación gradual deben percibirse en la selección de estímulos, la atención y el ritmo del relato; no se ha fijado una duración exacta ni el instante en que termina.
+
+**Causa reservada a la documentación interna:** es un síntoma del viaje entre mundos. Este mecanismo no se explicará en la obra, ni mediante el narrador ni mediante un diagnóstico o una explicación de los personajes. La experiencia extraordinaria es real dentro de la ficción y no debe corregirse como una exageración accidental o reducirse a una metáfora del trauma.
+
+La regulación sensorial no equivale a la recuperación médica de Alma. Tampoco establece por sí sola que desaparezca el azul ni que sus reapariciones impliquen nuevos picos de percepción. Se conserva la distinción ya confirmada: Alma siente el miedo del policía e interpreta sus motivos, sin conocer directamente sus pensamientos.
+
+## Evolución de las lesiones confirmada por el autor — 21 de octubre de 2026
+
+El intervalo entre el empeoramiento en la carpa y el traslado en ambulancia es una elipsis deliberada que permite omitir la descripción del tratamiento intermedio. No requiere una escena adicional ni una recapitulación técnica. La atención deberá definirse internamente para sostener el estado que presenta Alma durante el traslado; todavía no se fija un procedimiento concreto.
+
+Tres requisitos narrativos orientan la revisión: antes del rescate, Alma permanece inconsciente y ya siente un dolor muy agudo en el costado, que alcanza su experiencia durante el viaje; en la carpa, su condición justifica que la doctora encargue a Elías una vigilancia muy cercana; tras el movimiento provocado por la explosión, el agravamiento exige traslado prioritario en ambulancia con ventilación asistida. La explosión agrava una lesión dolorosa preexistente. La crisis posterior en el hospital queda prevista para los siguientes volúmenes, sin cronología real ni evolución clínica completa fijadas todavía.
+
+Alma se fractura varias costillas durante el accidente aéreo. La explosión posterior provoca un movimiento brusco que agrava su situación; el deterioro progresa hasta un paro respiratorio. Se conserva lo establecido en la ambulancia: mantiene pulso y recibe ventilación asistida. La regulación de su percepción extraordinaria es un proceso distinto y no indica recuperación física.
+
+Estos son hechos de la historia. El personal solo puede comunicar lo que ha observado o comprobado en cada momento: la primera evaluación puede hablar de sospecha de fracturas aunque el autor sepa que existen. No están definidos el número exacto de costillas, su desplazamiento ni una lesión pulmonar asociada. No añadirlos para explicar la progresión. La explosión sigue sin identificarse directamente desde la carpa, cuyos ocupantes no ven el avión.
+
+Las correcciones de diálogos técnicos se presentarán al autor antes de aplicarse. Deben distinguir la respiración dolorosa inicial, el empeoramiento posterior al movimiento y el paro respiratorio con pulso conservado. La lesión pleural provocada por la costilla está confirmada por el autor; su desarrollo clínico y el tratamiento se concretarán mediante propuestas revisables. No se afirma que cualquier movimiento brusco con fracturas costales produzca un paro.
+
+## Vekún y el origen de los destellos — continuidad interna
+
+Confirmación autoral del 21 de octubre de 2026: Vekún está atrapado en otro mundo e intenta desesperadamente encontrarse con Alma. Los destellos azules que ella percibe son manifestaciones de sus esfuerzos por llegar hasta ella. Más adelante se revela que el brillo está dentro de los ojos de Alma, como permite observar la escena de la paramédica.
+
+Distinguir tres niveles al intervenir:
+
+- **Hecho interno:** los destellos proceden de los intentos de Vekún. Su origen ya está definido para la planificación.
+- **Experiencia de Alma:** al principio parecen reflejos o luces sobre objetos de su entorno. Esas ubicaciones describen dónde cree verlos; no deben convertirse en una confirmación del narrador de que la luz nace en el suero, la bandeja o los compartimientos.
+- **Revelación observable:** la paramédica advierte el brillo dentro de sus ojos. Ese hallazgo revela su localización, sin que ella conozca a Vekún o pueda explicar sus esfuerzos.
+
+La desesperación de Vekún pertenece a su situación real en la historia. No traducir cada destello en una emoción identificada por Alma ni añadir una explicación del mecanismo al diálogo médico. Tampoco se ha fijado una correspondencia temporal entre cada intento y una escena de Yoliraeth, ni se ha confirmado que haya logrado cruzar. Conservar esas diferencias de conocimiento durante la revisión.
+
+## Entorno y lesión pleural — precisión autoral del 21 de octubre de 2026
+
+El avión cae sobre un riachuelo en territorio estadounidense, cerca de una zona costera. Desde el entorno del accidente se puede ver y escuchar el mar, pero el avión no cae directamente en una playa. El accidente ocurre con luz diurna; el rescate transcurre durante el atardecer y, cuando Alma entra en la carpa, ya es de noche. Es invierno, hace frío y no está nevando. No se han fijado localidad, horas exactas ni duración del intervalo entre impacto y rescate. Alma domina el inglés; la traducción de los diálogos al inglés se realizará después de la intervención.
+
+El movimiento repentino de Alma, provocado por la explosión, hace que una costilla fracturada perfore internamente la pleura y agrave su estado hasta el paro respiratorio. Esta lesión queda confirmada como hecho de la historia. La denominación clínica completa, los hallazgos de exploración y la atención correspondiente se presentarán al autor antes de modificar los diálogos. No se da por confirmado todavía un neumotórax a tensión ni un tratamiento específico.
+
+La precisión horaria más reciente sustituye la indicación previa de accidente nocturno. El sol y la sombra del avión durante la caída son compatibles con la secuencia. Durante la intervención se graduará la luz del rescate hacia el atardecer y la oscuridad del traslado; en la carpa, las luces artificiales destacan más por el contraste con la noche exterior. El recuerdo de una playa permanece como recuerdo, no como ubicación física del accidente.
 
 ## Orden de lectura y ubicación
 
 | Ubicación en el manuscrito | Escena o conexión | Situación al terminar |
 |---|---|---|
-| `src/10-prologo/10-rescate.md` | Extracción del fuselaje | Alma queda libre y la trasladan; percibe el azul. |
-| `src/10-prologo/20-traslado.md` | Camilla hasta la unidad de campaña | Sobrecarga sensorial, nueva presencia azul y pérdida de conciencia. |
-| `src/10-prologo/30-carpa-medica.md` | Evaluación y conversación con Elías | Pronuncia «Vekún»; Elías pregunta «¿Qué?» y el brillo desaparece. |
+| `src/20-volumen-1/00-prologo/10-rescate.md` | Extracción del fuselaje | Alma queda libre y la trasladan; percibe el azul. |
+| `src/20-volumen-1/00-prologo/20-traslado.md` | Camilla hasta la unidad de campaña | Sobrecarga sensorial, nueva presencia azul y pérdida de conciencia. |
+| `src/20-volumen-1/00-prologo/30-carpa-medica.md` | Evaluación y conversación con Elías | Pronuncia «Vekún»; Elías pregunta «¿Qué?» y el brillo desaparece. |
 | `src/20-volumen-1/10-capitulo-1/10-avion.md` | Vuelo y accidente, anteriores al rescate | Oscuridad tras la caída; el relato pasa al jardín. |
 | Final de `src/20-volumen-1/20-capitulo-2/30-oído.md` | Continuación inmediata del prólogo en la carpa | El azul reaparece y Alma decide esperar para observarlo. |
 | `src/20-volumen-1/20-capitulo-2/40-olfato.md` | Irrupción sensorial del accidente dentro de la sala | El olor de Vekún aparta a Alma del miedo sin que llegue a despertar fuera. |
@@ -28,7 +82,7 @@ Alma es encontrada consciente, atrapada entre asientos y el cinturón bloqueado.
 
 Una paramédica encuentra el pasaporte y lee su nombre, Alma Escarlet Jiménez. El bombero libera el metal y corta el cinturón. La sacan con cuidado, prestando atención al costado izquierdo. Alma alcanza a ver otra luz azul sobre una superficie metálica. No aparece un animal reconocible ante el personal de rescate.
 
-Fuente: `src/10-prologo/10-rescate.md`.
+Fuente: `src/20-volumen-1/00-prologo/10-rescate.md`.
 
 ## 3. Traslado a la carpa
 
@@ -36,19 +90,19 @@ El bombero deja la camilla y acude a otra emergencia. El personal busca la ubica
 
 Al entrar en la unidad de campaña cambia el ambiente sonoro y térmico. Reaparece el azul y Alma pierde la conciencia. El traslado de esta escena se hace en camilla dentro del operativo; no es todavía el viaje en ambulancia.
 
-Fuente: `src/10-prologo/20-traslado.md`.
+Fuente: `src/20-volumen-1/00-prologo/20-traslado.md`.
 
 ## 4. Evaluación en la carpa y aparición del nombre de Vekún
 
-Alma despierta con presión en el pecho y dificultad para respirar. La doctora informa una saturación de 91, hipomovilidad del costado izquierdo y sospecha de fractura costal sin desplazamiento ni crepitación. La describe como estable por el momento, con disnea leve. Es una valoración de ese instante, no el estado definitivo de Alma.
+Alma despierta con dolor en el costado izquierdo y dificultad para respirar profundamente. La doctora informa una saturación de 91, respiración superficial, menor expansión del lado izquierdo y sospecha de fracturas costales. Ordena vigilancia continua hasta el traslado; no afirma un desplazamiento ni califica el problema como leve.
 
-Elías Navarro recibe la indicación de evaluar Glasgow y pupilas y mantener vigilancia constante. Las pupilas responden de manera simétrica. Alma dice su nombre, reconoce que está en una carpa y al intentar recordar habla de otro lugar con luz y agua. No se consigna una puntuación numérica de Glasgow. Elías le explica que hubo un accidente aéreo y que la trasladarán al hospital cuando haya disponibilidad. La doctora se ocupa de otro herido.
+Elías Navarro recibe la indicación de evaluar Glasgow y pupilas y mantener vigilancia constante. Las pupilas responden de manera simétrica. Alma dice su nombre, reconoce que está en una carpa y al intentar recordar habla de otro lugar con luz y agua. No se consigna una puntuación numérica de Glasgow. Elías le explica que hubo un accidente aéreo y que la trasladarán al hospital y que permanecerá con ella mientras tanto. La doctora se ocupa de otro herido.
 
 Alma cierra los ojos y percibe un sonido familiar y una luz azul sobre el soporte del suero. Pronuncia «Vekún». Elías pregunta «¿Qué?». Al abrir ella los ojos, el brillo ha desaparecido. Este intercambio es el enlace exacto con el interludio posterior a la sala del oído.
 
 La doctora aparece joven y sin nombre en esta escena. Las fichas preparatorias que proponen una doctora Muñoz de mayor edad no sustituyen esa caracterización del manuscrito.
 
-Fuente: `src/10-prologo/30-carpa-medica.md`.
+Fuente: `src/20-volumen-1/00-prologo/30-carpa-medica.md`.
 
 ## 5. La recurrencia del azul
 
@@ -110,7 +164,7 @@ Fuente: primer interludio entre separadores en `src/20-volumen-1/30-capitulo-3/6
 - Elías aparece por última vez en la carpa pidiendo ayuda a la doctora. Su participación posterior no se ha narrado.
 - La paramédica de la ambulancia es la primera persona, además de Alma, a quien se muestra percibiendo el brillo azul. Esa observación no identifica su naturaleza ni demuestra que vea a Vekún como criatura.
 - La sospecha inicial de fractura costal y la saturación de 91 pertenecen a la primera evaluación; no deben repetirse como mediciones actuales del traslado.
-- La causa del accidente, la del paro respiratorio, el intervalo de atención omitido y la relación temporal entre ambos planos siguen abiertos.
+- La causa del accidente, el intervalo de atención omitido y la relación temporal entre ambos planos siguen abiertos. El autor establece que el deterioro hasta el paro respiratorio nace de una perforación pleural causada por una costilla al moverse bruscamente; su desarrollo clínico y tratamiento siguen pendientes de precisión.
 - Los despertares, fiebre, conversaciones y mejorías previstos para guardianes posteriores en `main_path.md` son posibilidades futuras, no hechos ocurridos.
 
 Escenarios relacionados: [sitio del accidente](../places/sitio_del_accidente.md), [carpa médica](../places/carpa%20médica.md) y [ambulancia](../places/ambulancia.md).
